@@ -2,7 +2,7 @@
   "id": "polish_patch",
   "name": "polski patch przez 1piotrus#5821",
   "description": "",
-  "version": "0.1",
+  "version": "0.0.2",
   "files": {
     "plugins": ["js/plugins/", "js/"],
     "text": ["languages/en/"],
