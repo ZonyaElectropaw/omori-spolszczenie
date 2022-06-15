@@ -1,0 +1,182 @@
+# -----------------------------------------------
+# - PICNIC SAVE
+# -----------------------------------------------
+message_0:
+    text: >
+        Koszyk piknikowy MARI. \!Chcesz ZAPISAĆ?
+
+message_1:
+    text: >
+        drużyna OMORI czuje się dobrze!
+
+message_40:
+    text: >
+        OMORI przestał zawieszać się.
+
+message_41:
+    text: >
+        Czujesz się trochę lepiej.
+
+message_42:
+    text: >
+        Czujesz się lepiej.
+
+message_43:
+    text: >
+        Czujesz się dobrze.
+
+message_50:
+    text: >
+        Pusty koszyk piknikowy.<br>\!Chcesz ZAPISAĆ?
+
+message_51:
+    text: >
+        Pusty koszyk piknikowy.<br>\!Chcesz ZAPISAĆ?
+
+message_52:
+    text: >
+        Pusty koszyk piknikowy.<br>\!Chcesz ZAPISAĆ?
+
+message_53:
+    text: >
+        Pusty koszyk piknikowy.<br>\!Chcesz ZAPISAĆ?
+
+message_54:
+    text: >
+        Pusty koszyk piknikowy.<br>\!Chcesz ZAPISAĆ?
+
+message_60:
+    text: >
+        Pusty koszyk piknikowy.<br>\!Chcesz ZAPISAĆ?
+
+# -----------------------------------------------
+# - FRUITS BASKET
+# -----------------------------------------------
+message_2:
+    text: Ah tak, pyszne owoce.\!<br>Chcesz zjeść trochę?
+
+message_3:
+    text: Ty i twoi znajomi czują się jak nowi!
+
+message_4:
+    text: Ah tak, pożywne cukierki.\!<br>Chcesz zjeść trochę?
+
+message_5:
+    text: Ah tak, kosmiczne jedzenie z tubki.\!<br>Chcesz zjeść trochę?
+
+message_6:
+    text: Ah tak, idealnie upieczony kurczak.\!<br>Chcesz zjeść trochę?
+
+message_7:
+    text: Ah tak, domowej roboty dżem truskawkowy.\!<br>Chcesz zjeść trochę?
+
+message_8:
+    text: Ah tak, wątpliwa żelatyna.\!<br>Chcesz zjeść trochę?
+
+message_9:
+    text: Ah tak, ogórki konserwowe.\!<br>Chcesz zjeść trochę?
+
+message_20:
+    text: Ah tak, bardzo duża porcja fast foodów.\!<br>Chcesz zjeść trochę?
+
+message_21:
+    text: Ah tak, ogolony lód.\!<br>Chcesz zjeść trochę?
+
+message_22:
+    text: Ah tak, pojedyńczy blok tofu.\!<br>Chcesz zjeść trochę?
+
+message_23:
+    text: Ah tak, pożywna zupa.\!<br>Chcesz wypić trochę?
+
+message_24:
+    text: Ah tak, soczyste jabłka cukierkowe.\!<br>Chcesz zjeść trochę?
+
+message_25:
+    text: Ah tak, surowe owoce morza.\!<br>Chcesz zjeść trochę?
+
+message_26:
+    text: Ah tak, bardzo długa kanapka hero.\!<br>Chcesz zjeść trochę?
+
+message_27:
+    text: Ah tak, soczyste pomidory.\!<br>Chcesz zjeść trochę?
+
+message_28:
+    text: Ah tak, świeży chleb.\!<br>Chcesz zjeść trochę?
+
+message_29:
+    text: Ah tak, miska słodkich truskawek.\!<br>Chcesz zjeść trochę?
+
+message_31:
+    text: Ah tak, a bucket of fresh and chunky SEACOW milk.\!<br>Chcesz wypić trochę?
+
+message_32:
+    text: Ah tak, Specjalna herbata i racuszki SWEETHEART.\!<br>Would you like to have some?
+
+message_33:
+    text: Wspaniale duże różowe łóżko.\!<br>Chcesz zdrzemnąć się tu z przyjaciółmi?
+
+#Blackspace
+
+message_30:
+    text: Ah... twardy, zamrożony stek.\!<br>Chcesz zjeść trochę?
+
+# -----------------------------------------------
+# - YES/NO
+# -----------------------------------------------
+message_10:
+    text: TAK
+message_11:
+    text: NIE
+
+# -----------------------------------------------
+# - NOD / SHAKE
+# -----------------------------------------------
+message_12:
+    text: TAK
+message_13:
+    text: NIE
+
+# -----------------------------------------------
+# - GO OUTSIDE / CLOSE DOOR
+# -----------------------------------------------
+message_14:
+    text: OTWÓRZ DRZWI
+message_15:
+    text: NIE RÓB NIC
+
+# -----------------------------------------------
+# - TITLE SCREEN
+# -----------------------------------------------
+message_16:
+    text: NOWA GRA
+message_17:
+    text: KONTYNUUJ
+message_18:
+    text: \C[7]KONTYNUUJ
+message_19:
+    text: WYJDŹ
+
+#DOOR OPENING
+
+message_1000:
+    text: Co chciałbyś zrobić?
+
+# -----------------------------------------------
+# - TITLE SCREEN
+# -----------------------------------------------
+
+message_70:
+    text: NIE WAŻNE
+
+# -----------------------------------------------
+# - no longer afraid
+# -----------------------------------------------
+
+message_100:
+    text: Nie boisz się już wysokości.
+
+message_101:
+    text: Nie boisz się już pająków.
+
+message_102:
+    text: Nie boisz się już tonięcia.

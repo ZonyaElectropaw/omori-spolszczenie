@@ -1,0 +1,14 @@
+{
+  "id": "polish_patch",
+  "name": "polski patch przez 1piotrus#5821",
+  "description": "",
+  "version": "0.1",
+  "files": {
+    "plugins": ["js/plugins/", "js/"],
+    "text": ["languages/en/"],
+    "data": ["data/"],
+    "maps": [],
+    "assets": ["fonts/" , "img/animations/" , "img/atlases/" , "img/characters/", "img/parallaxes/" , "img/pictures/" , "img/system/" , "img/tilesets/" , "img/"],
+    "exec": []
+  }
+}

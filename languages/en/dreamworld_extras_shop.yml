@@ -1,0 +1,667 @@
+# =========================================================================================
+# Dreamworld shops
+# =========================================================================================
+
+#Placeholder intro
+message_1:
+      text: \n<JASH>Jestem JASH o wielu talentach i mistrz wielu zawodów.<br>\!Jak mogę ci dzisiaj pomóc?
+
+#purchase
+message_2:
+      text: \n<JASH>Dziękuję za twoje wsparcie.
+
+#insufficient funds
+message_3:
+      text: \n<JASH>Nie masz wystarczająco CLAMSÓW.
+
+message_4:
+      text: \n<JASH>Jestem JASH o wielu talentach i mistrz wielu zawodów.
+
+message_5:
+      text: \n<JASH>Proszę czekać, proszę Pana lub Pani.\! Zanim odejdziesz...<br>Chciałem ci podziękować za bycie klientem JASHA.
+
+message_6:
+      text: \n<JASH>Proszę weź tą \c[13]METKĘ\c[0].\! Nie dostanies tutaj żadnych zniżek, ale jestem pewien, że będzie dla ciebie przydatna.
+
+message_7:
+      text: Dostałeś \c[13]METKĘ\c[0].
+
+message_203:
+      text: \n<LODO-ROŻEK JASH>Nie masz wystarczająco CLAMSÓW.
+
+message_204:
+      text: \n<LODO-ROŻEK JASH>Jestem JASH o wielu talentach i mistrz wielu zawodów.
+
+message_205:
+      text: \n<LODO-ROŻEK JASH>Proszę czekać, proszę Pana lub Pani.\! Zanim odejdziesz...<br>Chciałem ci podziękować za bycie klientem JASHA.
+
+message_206:
+      text: \n<LODO-ROŻEK JASH>Proszę weź tą \c[13]METKĘ\c[0].\! Nie dostanies tutaj żadnych zniżek, ale jestem pewien, że będzie dla ciebie przydatna.
+
+message_213:
+      text: \n<TOFU JASH>Nie masz wystarczająco CLAMSÓW.
+
+message_214:
+      text: \n<TOFU JASH>Jestem JASH o wielu talentach i mistrz wielu zawodów.
+
+message_215:
+      text: \n<TOFU JASH>Proszę czekać, proszę Pana lub Pani.\! Zanim odejdziesz...<br>Chciałem ci podziękować za bycie klientem JASHA.
+
+message_216:
+      text: \n<TOFU JASH>Proszę weź tą \c[13]METKĘ\c[0].\! Nie dostanies tutaj żadnych zniżek, ale jestem pewien, że będzie dla ciebie przydatna.
+
+message_223:
+      text: \n<LEMON JASH>Nie masz wystarczająco CLAMSÓW.
+
+message_224:
+      text: \n<LEMON JASH>Jestem JASH o wielu talentach i mistrz wielu zawodów.
+
+message_225:
+      text: \n<LEMON JASH>Proszę czekać, proszę Pana lub Pani.\! Zanim odejdziesz...<br>Chciałem ci podziękować za bycie klientem JASHA.
+
+message_226:
+      text: \n<LEMON JASH>Proszę weź tą \c[13]METKĘ\c[0].\! Nie dostanies tutaj żadnych zniżek, ale jestem pewien, że będzie dla ciebie przydatna.
+
+message_233:
+      text: \n<DEALER JASH>Nie masz wystarczająco CLAMSÓW.
+
+message_234:
+      text: \n<DEALER JASH>Jestem JASH o wielu talentach i mistrz wielu zawodów.
+
+message_235:
+      text: \n<DEALER JASH>Proszę czekać, proszę Pana lub Pani.\! Zanim odejdziesz...<br>Chciałem ci podziękować za bycie klientem JASHA.
+
+message_236:
+      text: \n<DEALER JASH>Proszę weź tą \c[13]METKĘ\c[0].\! Nie dostanies tutaj żadnych zniżek, ale jestem pewien, że będzie dla ciebie przydatna.
+
+message_243:
+      text: \n<PARTY JASH>Nie masz wystarczająco CLAMSÓW.
+
+message_244:
+      text: \n<PARTY JASH>Jestem JASH o wielu talentach i mistrz wielu zawodów.
+
+message_245:
+      text: \n<PARTY JASH>Proszę czekać, proszę Pana lub Pani.\! Zanim odejdziesz...<br>Chciałem ci podziękować za bycie klientem JASHA.
+
+message_246:
+      text: \n<PARTY JASH>Proszę weź tą \c[13]METKĘ\c[0].\! Nie dostanies tutaj żadnych zniżek, ale jestem pewien, że będzie dla ciebie przydatna.
+
+message_247:
+      text: \n<SMUGGLER JASH>Proszę czekać, proszę Pana lub Pani.\! Zanim odejdziesz...<br>Chciałem ci podziękować za bycie klientem JASHA.
+
+message_248:
+      text: \n<SMUGGLER JASH>Proszę weź tą \c[13]METKĘ\c[0].\! Nie dostanies tutaj żadnych zniżek, ale jestem pewien, że będzie dla ciebie przydatna.
+
+
+# =========================================================================================
+# MAILBOX: GENERAL
+# =========================================================================================
+
+#Mailbox intro
+
+message_10:
+      text: \whoPsst...\! Hej!\! Psst...
+
+message_11:
+      text: \whoTY!\! Tak, ty tam!
+
+message_12:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubUmmm...\! OMORI...\! Wydaję mi się, że ta skrzynka pocztowa do nas mówi...\! <br>Chyba powinniśmy to sprawdzić...
+
+#Mailbox opens
+message_13:
+      text: \maiTak, tak! Cześć, ceniony kliencie...<br>Witaj w moim sklepie! Proszę coś kupić! \}\sinv[1]Kekeke...
+
+#MAILBOX - GENERAL
+
+#ENTER shop
+
+message_14:
+      text: \maiTak, tak! Cześć, ceniony kliencie...<br>Witaj w moim sklepie! Proszę coś kupić! \}\sinv[1]Kekeke...
+
+#BUYING/SELLING
+
+message_15:
+      text: \maiDziękuję ci, ceniony kliencie!\!<br>Szczerze doceniam Twój biznes.<br>\}\sinv[1]Kekeke...
+
+#LEAVE SHOP AFTER BUYING SOMETHING
+
+message_16:
+      text: \maiUprzejmie dziękuję!
+
+#LEAVE SHOP WITHOUT BUYING ANYTHING
+
+message_17:
+      text: \maiNie doceniam oglądających...
+#NOT ENOUGH CLAMSÓW
+
+message_18:
+      text: \maiCzekaj sekundkę...\!<br>Nie masz na to wystarczająco CLAMSÓW!\!<br>Myślisz, że co ja tu prowadzę? AKCJĘ CHARYTATYWNĄ!?
+
+message_19:
+      text: \mai\Com[2]Myślisz, że co ja tu prowadzę? Akcję charytatywną!?
+#item buying prompt
+message_184:
+      text: \maiŁącznie będzie <SHOPTOTAL>\G.
+#max item message
+message_185:
+      text: \maiNie masz na to miejsca...\! Najpierw się czegoś pozbądź!
+#on item list buy ok
+message_186:
+      text: Ile chciałbyś kupić?\^
+#item selling ok
+message_187:
+      text: Ile sprzedasz?\^
+#item selling prompt
+message_188:
+      text: \maiW zamian za twój towar, mogę zaoferować tyle...\! Pasuje ci?
+#item buying cancel
+message_189:
+      text: \maiCo? Po tym wszystkim po prostu sobie pójdziesz!?
+
+
+#IF HERO IS leader
+message_200:
+      text: \maiAh, jeśli to nie HERO, mój ulubiony i najprzystojniejszy klient! Dla ciebie zawsze jest zniżka! Więc... proszę kup coś! \}\sinv[1]Kekeke...
+
+# =========================================================================================
+# MAILBOX: LEŚNY PLAC ZABAW
+# =========================================================================================
+
+#Leaving before purchasing misfortune cookie
+#Note: once player buys misfortune cookie, this no longer triggers
+
+
+
+#Yes/No
+
+#Buying Misfortune COOKIE
+
+
+
+#Rejecting Misfortune COOKIE
+
+
+# =========================================================================================
+# MAILBOX: OTHERWORLD CAMPSITE
+# =========================================================================================
+
+#Buying Misfortune COOKIE
+
+
+
+# =========================================================================================
+# MAILBOX: SPROUTMOLE TOWN ENTRANCE
+# =========================================================================================
+
+
+
+# =========================================================================================
+# MAILBOX: Orange Oasis (In Front of Dino's Dig)
+# =========================================================================================
+
+#Leaving before purchasing Misfortune cookie
+
+
+# =========================================================================================
+# MAILBOX - LAST RESORT
+# =========================================================================================
+
+#SELECTING POOL NOODLE
+
+message_70:
+      text: \maiHej, dzieciaki! Mogę was zainteresować tym \c[13]MAKARONEM PIANKOWYM\c[0]?\!<br>Może wyglądać skromnie, ale ma potencjał, by stać się bardzo potężną bronią!
+
+message_71:
+      text: \maiNawet wiedząc to...\! Dam ci ją za bardzo niską cenę 5000 CLAMSÓW!
+
+message_72:
+      text: \maiZa taką cenę w zasadzie kradniesz ode mnie!
+
+message_73:
+      text: \maiCo myślisz?\! Chcesz go?\$
+#yes/no
+
+#if yes
+message_74:
+      text: \maiŚwietnie!\! Dobrze o niego dbajcie!\! <br>\}\sinv[1]Kekeke...\LECLEAR
+
+#if no
+message_75:
+      text: \maiOh, widzę...\! Ale ten \c[13]MAKARON PIANKOWY\c[0] jest taki rzadki i cenny...\!<br>Musisz to przemyśleć!\! Co jeśli usłodzę ci ofertę i obniże cenę do 2500 CLAMSÓW?
+
+message_76:
+      text: \maiJak to brzmi?\! Chcesz go?\$
+
+#yes/no
+message_77:
+      text: \maiTy...\! \Com[2]ty wciąż go nie chcesz??\!<br>\QUAKE[1]Za taką cenę!?!?\QUAKE[0]
+
+message_78:
+      text: \maiGrr... Hmph...
+
+message_79:
+      text: \maiDobra, dobra... \!Naprawdę idę tutaj na skróty, ale dobra...
+
+message_80:
+      text: \maiPrzygotuj się na ofertę twojego życia!<br>1000 CLAMSÓW, i bez gadania!\$
+
+#No
+message_81:
+      text: \maiTy...\! Jesteś jednym twardym ciasteczkiem...
+
+message_82:
+      text: \maiHuff...\! Co powiesz na...\! 500 CLAMSÓW...\$
+
+#[no]
+message_83:
+      text: \mai250 CLAMSÓW?\$
+
+#[no]
+message_84:
+      text: \maiWiesz co...\! \Com[2]W porządku!\!<br>Nie wiem w ogóle po co ja się tak męczę...
+
+message_85:
+      text: \maiJeśli nie chcesz kupić \c[13]MAKARONU PIANKOWEGO\c[0], to sobie go weź!
+
+message_87:
+      text: \maiPo prostu idź mi z tym...\! Nie chcę już tego znowu widzieć!
+
+message_88:
+      text: Dostałeś \c[13]MAKARON PIANKOWY\c[0].
+
+#Shop closes
+
+#Leaving before purchasing Misfortune cookie (If you bought a misforune cookie from orange oasis)
+
+
+
+#Buying misfortune COOKIE
+
+
+
+#Rejecting misforunte cookie
+
+
+
+
+# =========================================================================================
+# BOTTLED WATER SELLERS (DEEP REEF)
+# =========================================================================================
+
+message_95:
+      text: \n<GOOMAN>Hej, ty!\! Tak, ty tam z stoicką miną!
+
+message_96:
+      text: \n<GOOMAN>Hej, ty!\! Tak, ty tam z piękną kokardką!
+
+message_97:
+      text: \n<GOOMAN>Hej, ty!\! Tak, ty tam z niskim wzrostem!
+
+message_98:
+      text: \n<GOOMAN>Hej, ty!\! Tak, ty tam z piękną twarzą!
+
+message_99:
+      text: \n<GOOMAN>Czy mógłbym zainteresować cię tą prawdziwą, całkowicie organiczną \c[3]WODĄ BUTELKOWANĄ\c[0]?\! Mamy wyprzedaż likwidacyjną!
+
+#should be a variable reference to change depending on the amount
+message_100:
+      text: \n<GOOMAN>Ta \c[3]WODA BUTELKOWANA\c[0] może być twoja za bardzo niską cenę \v[635] CLAMSÓW!\! Więc, chcesz ją?\$
+
+#1st/2nd/3rd price, variable reference
+message_101:
+      text: \n<GOOMAN>Ta \c[3]WODA BUTELKOWANA\c[0] może być twoja za bardzo niską cenę \v[635] CLAMSÓW!\! Więc, chcesz ją?\$
+
+#Yes
+message_102:
+      text: \n<GOOMAN>\sinv[1]Świetnie!\!\sinv[0] Weź tą \c[3]WODĘ BUTELKOWANĄ\c[0]. Teraz jest twoja!
+
+#no
+message_103:
+      text: \n<GOOMAN>Dobrze...\! ale będziesz żałować tej jedynej w swoim rodzaju oferty!
+
+#not enough clams
+message_104:
+      text: \n<GOOMAN>Wciąż szukasz \c[3]WODY BUTELKOWANEJ\c[0]?\!<br>Może mam jeszcze jedną w magazynie
+
+message_105:
+      text: \n<GOOMAN>Nie masz wystarczająco CLAMSÓW...
+
+message_106:
+      text: \n<GOOMAN>Proszę, ciesz się swoją \c[3]WODĄ BUTELKOWANĄ\c[0]!
+
+message_107:
+      text: \n<GOOMAN>Nie masz wystarczająco CLAMSÓW...
+
+message_108:
+      text: \n<GOOMAN>Oh... Wieć \sinv[1]teraz\sinv[0] chcesz kupić \c[3]WODĘ BUTELKOWANĄ\c[0]?
+
+message_109:
+      text: \n<GOOMAN>Niestety cena wzrosła odkąd ostatnio rozmawialiśmy... Teraz kosztuje \v[635], ale mam nadzieję, że wciąż przyjmiesz moją ofertę! Heh heh...\$
+
+message_94:
+      text: Dostałeś \c[3]BOTTLED WATER\c[0].
+
+# =========================================================================================
+# LODO-ROŻEK JASH
+# =========================================================================================
+
+#Intro  start at 110
+message_110:
+      text: \n<LODO-ROŻEK JASH>Jestem JASH o wielu talentach i mistrz wielu zawodów.<br>\!Jak mogę ci dzisiaj pomóc?
+
+#Purchase
+message_111:
+      text: \n<LODO-ROŻEK JASH>Dziękuję za twoje wsparcie.
+
+#Decline
+message_112:
+      text: \n<LODO-ROŻEK JASH>Szanuję twoją decyzję.
+
+#Not enough money
+message_113:
+      text: \n<LODO-ROŻEK JASH>Wygląda na to, że nie masz wystarczająco CLAMSÓW...
+#item buying prompt
+message_114:
+      text: \n<LODO-ROŻEK JASH>Świetnie! Łącznie będzie <SHOPTOTAL>\G.
+#max item message
+message_115:
+      text: \n<LODO-ROŻEK JASH>Nie masz na to miejsca...
+#on item list buy ok
+message_116:
+      text: Ile chciałbyś kupić?\^
+#item selling ok
+message_117:
+      text: Ile sprzedasz?\^
+#item selling prompt
+message_118:
+      text: \n<LODO-ROŻEK JASH>Wspaniale.\! Twoje zamówienie wyjdzie na tyle!
+#item buying cancel
+message_119:
+      text: \n<LODO-ROŻEK JASH>Szanuję twoją decyzję.
+
+# =========================================================================================
+# TOFU JASH
+# =========================================================================================
+
+#Intro   start at 120
+message_120:
+      text: \n<TOFU JASH>Witam Panie lub Pani. Czy byłbyś zainteresowany zakupem dobrego \c[3]TOFU\c[0]?\! Kosztuje dokładnie 1 CLAM.\$
+
+#Purchase
+message_121:
+      text: \n<TOFU JASH>Dziękuję za twoje wsparcie.
+#Decline
+message_122:
+      text: \n<TOFU JASH>Szanuję twoją decyzję.
+#Not enough money
+message_123:
+      text: \n<TOFU JASH>Nie masz nawet 1 nędznego CLAMA?\! szkoda mi ciebie.\! I tak dam ci \c[3]TOFU\c[0].
+#item buying prompt
+message_124:
+      text: \n<TOFU JASH>! Łącznie będzie <SHOPTOTAL>\G.
+#max item message
+message_125:
+      text: \n<TOFU JASH>Nie masz na to miejsca!
+#on item list buy ok
+message_126:
+      text: Ile chciałbyś kupić?\^
+#item selling ok
+message_127:
+      text: Ile sprzedasz?\^
+#item selling prompt
+message_128:
+      text: \n<TOFU JASH>Wspaniale.\! Twoje zamówienie wyjdzie na tyle!
+#item buying cancel
+message_129:
+      text: \n<TOFU JASH>Szanuję twoją decyzję.
+
+
+# =========================================================================================
+# Lemonade JASH
+# =========================================================================================
+
+#intro   start at 130
+message_130:
+      text: \n<LEMON JASH>Witam Panie lub Pani.\! Wygląda na to, że skończyły nam się \c[4]BILETY NA POCIĄG\c[0], ale wciąż zostało nam trochę \c[3]LEMONIADY\c[0].\! Chciałeś kupić \c[3]LEMONIADĘ\c[0]?
+
+#purchase
+message_131:
+      text: \n<LEMON JASH>Dziękuję za twoje wsparcie.
+
+#decline
+message_132:
+      text: \n<LEMON JASH>Szanuję twoją decyzję.
+
+#not enough CLAMSÓW
+message_133:
+      text: \n<LEMON JASH>Wygląda na to, że nie masz wystarczająco CLAMSÓW...
+#item buying prompt
+message_134:
+      text: \n<LEMON JASH>Świetnie! Łącznie będzie <SHOPTOTAL>\G.
+#max item message
+message_135:
+      text: \n<LEMON JASH>Nie masz na to miejsca!
+#on item list buy ok
+message_136:
+      text: Ile chciałbyś kupić?\^
+#item selling ok
+message_137:
+      text: Ile sprzedasz?\^
+#item selling prompt
+message_138:
+      text: \n<LEMON JASH>Wspaniale.\! Twoje zamówienie wyjdzie na tyle!
+#item buying cancel
+message_139:
+      text: \n<LEMON JASH>Szanuję twoją decyzję.
+
+
+# =========================================================================================
+# PARTY JASH
+# =========================================================================================
+
+#Intro    start at 140
+message_140:
+      text: \n<PARTY JASH>Jestem JASH o wielu talentach i mistrz wielu zawodów.<br>\!Jak mogę ci dzisiaj pomóc?
+
+#Purchase
+message_141:
+      text: \n<PARTY JASH>Dziękuję za twoje wsparcie.
+
+#decline
+message_142:
+      text: \n<PARTY JASH>Niszczyciel dobrej zabawy...
+
+#Not enough money
+message_143:
+      text: \n<PARTY JASH>Wygląda na to, że nie masz wystarczająco CLAMSÓW...
+#item buying prompt
+message_144:
+      text: \n<PARTY JASH>Świetnie! Łącznie będzie <SHOPTOTAL>\G.
+#max item message
+message_145:
+      text: \n<PARTY JASH>Nie masz na to miejsca!
+#on item list buy ok
+message_146:
+      text: Ile chciałbyś kupić?\^
+#item selling ok
+message_147:
+      text: Ile sprzedasz?\^
+#item selling prompt
+message_148:
+      text: \n<PARTY JASH>Wspaniale.\! Twoje zamówienie wyjdzie na tyle!
+#item buying cancel
+message_149:
+      text: \n<PARTY JASH>Szanuję twoją decyzję.
+# =========================================================================================
+# DEALER JASH
+# =========================================================================================
+
+#Intro    start at 170
+message_170:
+      text: \n<DEALER JASH>Jestem JASH o wielu talentach i mistrz wielu zawodów.<br>\!Jak mogę ci dzisiaj pomóc?
+
+#Purchase
+message_171:
+      text: \n<DEALER JASH>Dziękuję za twoje wsparcie.
+
+#decline
+message_172:
+      text: \n<DEALER JASH>Odrzuciłbyś tak dobrą ofertę?\! Wstyd...
+
+#Not enough money
+message_173:
+      text: \n<DEALER JASH>Wygląda na to, że nie masz wystarczająco CLAMSÓW...
+#item buying prompt
+message_174:
+      text: \n<DEALER JASH>Wspaniale. Łącznie będzie <SHOPTOTAL>\G.
+#max item message
+message_175:
+      text: \n<DEALER JASH>Nie masz na to miejsca...
+#on item list buy ok
+message_176:
+      text: Ile chciałbyś kupić?\^
+#item selling ok
+message_177:
+      text: Ile sprzedasz?\^
+#item selling prompt
+message_178:
+      text: \n<DEALER JASH>Wspaniale.\! Twoje zamówienie wyjdzie na tyle!
+#item buying cancel
+message_179:
+      text: \n<DEALER JASH>Szanuję twoją decyzję.
+
+# =========================================================================================
+# MUSTARD SUB
+# =========================================================================================
+
+#Intro       start at 150
+message_150:
+      text: \n<ELEANOR>Witamy w \c[11]MUSZTARDOWEJ ŁÓDZI PODWODNEJ\c[0]!\! Czy mogę przyjąć twoje zamówienie?
+
+#Leave Menu without Ordering
+message_151:
+      text: \n<ELEANOR>Tym razem nic?\!<br>Nie ma problemu! Proszę przyjdź ponownie wkrótce!
+
+#Purchase
+message_152:
+      text: \n<ELEANOR>To nasza specjalność!\! Łącznie będzie <SHOPTOTAL>\G.
+
+#MERMAID walks through the door and then comes back.
+
+message_193:
+      text: \n<ELEANOR>Dziękuję i miłego dnia!
+#item buying prompt
+message_194:
+      text: \n<ELEANOR>To nasza specjalność!\! Co powiesz na to?
+#max item message
+message_195:
+      text: \n<ELEANOR>Nie masz na to miejsca...
+#on item list buy ok
+message_196:
+      text: Ile chciałbyś kupić?\^
+#item selling ok
+message_197:
+      text: Ile sprzedasz?\^
+#item selling prompt
+message_198:
+      text: \n<ELEANOR>Masz to, cukiereczku!\! Twoje zamówienie wyjdzie na tyle!
+#item buying cancel
+message_199:
+      text: \n<ELEANOR>Przepraszam...\! Nie masz wystarczająco CLAMSÓW...
+
+# =========================================================================================
+# Vending Machines
+# =========================================================================================
+
+#Intro     start at 160
+message_160:
+      text: Automat.\!<br>Kupić \c[3]PYSZNĄ SODĘ\c[0] za 100 CLAMSÓW?\$
+
+message_162:
+      text: Nie masz wystarczająco CLAMSÓW.
+
+message_164:
+      text: Nie masz wystarczająco miejsca w swojej KIESZENI.
+
+message_163:
+      text: Zimna \c[3]PYSZNA SODA\c[0] wyleciała z automatu!
+
+#Examine when Sold out
+message_161:
+      text: Automat.\!<br>Wszystko jest wyprzedane.
+
+# =========================================================================================
+# Lemonade JASH
+# =========================================================================================
+
+#intro   start at 130
+message_250:
+      text: \n<SMUGGLER JASH>Zostałem wysłany do lochów za przemycanie, ale stare nawyki ciężko umierają.
+
+#purchase
+message_251:
+      text: \n<SMUGGLER JASH>Dobry wybór!
+
+#decline
+message_252:
+      text: \n<SMUGGLER JASH>Szanuję twoją decyzję.
+
+#not enough CLAMSÓW
+message_253:
+      text: \n<SMUGGLER JASH>Wygląda na to, że nie masz wystarczająco CLAMSÓW...
+#item buying prompt
+message_254:
+      text: \n<SMUGGLER JASH>Świetnie! Łącznie będzie <SHOPTOTAL>\G.
+#max item message
+message_255:
+      text: \n<SMUGGLER JASH>Nie masz na to miejsca!
+#on item list buy ok
+message_256:
+      text: Ile chciałbyś kupić?\^
+#item selling ok
+message_257:
+      text: Ile sprzedasz?\^
+#item selling prompt
+message_258:
+      text: \n<SMUGGLER JASH>Wspaniale.\! Twoje zamówienie wyjdzie na tyle!
+#item buying cancel
+message_259:
+      text: \n<SMUGGLER JASH>Szanuję twoją decyzję.
+
+#MAILBOX BEFORE INTRO
+message_300:
+      text: Podejrzana niebieska skrzynka na listy.
+
+#=====
+#CRAP SELLERS IN LAST RESORT
+
+
+
+# GOOMANS
+
+message_350:
+      text: \n<GOOMAN>Wyglądasz, jakbyś chciał trochę świeżego \c[3]MLEKA\c[0], świeżo z \c[11]FARMY MORSKOKRÓW\c[0]!\! To jest najświeższe świeże\c[3]MLEKO\c[0] i na pewno będzie orzeźwiające za jedyne 500 CLAMSÓW!\$
+
+message_351:
+      text: \n<GOOMAN>Jest najświeższe!
+
+message_352:
+      text: \n<GOOMAN>Chcesz zapozować przy tym bardzo unikalnym i ręcznie robionym kartonowym wycinkiem?\! To będzie cię kosztować tylko 100 CLAMSÓW!\$
+
+message_353:
+      text: \n<GOOMAN>Wspaniale, dzięki.\! Jest tam, jeśli chcesz go użyć.
+
+message_354:
+      text: \n<GOOMAN>Mam tutaj bardzo, bardzo unikalną \c[3]SODĘ\c[0] zrobioną z najlepszych \c[3]BRZOSKWIŃ\c[0].\! Mówię o słynnej \c[3]SODZIE BRZOSKWINIOWEJ\c[0], może być twoja za jedyne 600 CLAMSÓW!\$
+
+message_355:
+      text: \n<GOOMAN>Pokochasz ten smak.
+
+message_356:
+      text: \n<GOOMAN>Wyglądasz, jakbyś kochał niebezpieczeństwo.\! Mam wysokiej jakości \c[5]DYNAMIT\c[0] który czeka na użycie...\! Za niską cenę 1500 CLAMSÓW.\! Zainteresowany?\$
+
+message_357:
+      text: \n<GOOMAN>Wróć po więcej, kiedy tylko zechcesz zacząć wysadzać!

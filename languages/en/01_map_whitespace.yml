@@ -1,0 +1,198 @@
+# -----------------------------------------------
+# - THE WHITE DOOR
+# -----------------------------------------------
+message_0:
+    text: "Białe drzwi rzucają słaby cień.\\!<br>Co chciałbyś zrobić?"
+message_1:
+    text: "OTWÓRZ DRZWI"
+message_2:
+    text: "NIE RÓB NIC"
+message_3:
+    text: "Patrzyłeś się na drzwi."
+
+# -----------------------------------------------
+# - THE CAT
+# -----------------------------------------------
+message_4:
+    text: "\\n<MEWO>Miau?\\! (Czekasz, aż coś się wydarzy?)"
+
+message_404:
+    text: "\\n<MEWO>Miau?\\! (Nie ma tu wiele do roboty, prawda?)"
+
+message_405:
+    text: "\\n<MEWO>Miau?\\! (Or is there?)"
+
+message_406:
+    text: "\\n<MEWO>Miau?\\! (Szukasz wyjścia?)"
+
+message_407:
+    text: "\\n<MEWO>Miau...\\! (Zawsze jest jedno...\\| ale...)"
+
+message_408:
+    text: "\\n<MEWO>Miau?\\! (Czekasz, aż coś się wydarzy?)"
+
+message_409:
+    text: "\\n<MEWO>Miau?\\! (Kiedy wraca Mama?)"
+
+
+# -----------------------------------------------
+# - THE LAPTOP
+# -----------------------------------------------
+message_5:
+    text: "Uruchomiłeś laptopa."
+message_6:
+    text: "Co chciałbyś robić?"
+message_7:
+    text: "PATRZ NA KLAWIATURĘ"
+message_8:
+    text: "WPATRYWAJ SIĘ W EKRAN"
+message_40:
+    text: "OTWÓRZ SWÓJ PAMIĘTNIK"
+message_9:
+    text: "WYLOGUJ SIĘ"
+message_10:
+    text: "Wpatrywałeś się w ekran."
+message_11:
+    text: "Ciepło z laptopa ogrzało twoje kolana.\\!\\lb To było miłe."
+message_12:
+    text: "Nie możesz korzystać z laptopa z tej strony."
+
+# -----------------------------------------------
+# - THE SKETCHBOOK
+# -----------------------------------------------
+message_13:
+    text: "Szkicownik.\\!\\lb Zajrzeć do środka?"
+message_14:
+    text: "TAK"
+message_15:
+    text: "NIE"
+
+# -----------------------------------------------
+# - THE TISSUE BOX
+# -----------------------------------------------
+message_16:
+    text: "Pudełko na chusteczki do wycierania smutków."
+
+# -----------------------------------------------
+# - THE LIGHTBULB
+# -----------------------------------------------
+message_17:
+    text: "Żarówka zwisa z sufitu, gdziekolwiek się znajduje.\\!\\lb<br>Zajrzeć do żarówki?"
+message_18:
+    text: "W środku jest ciemno.\\! Niczego nie widać."
+
+# -----------------------------------------------
+# - THE KNIFE
+# -----------------------------------------------
+message_19:
+    text: "Coś spadło w pobliżu."
+message_20:
+    text: "Znalazłeś \\v[49].\\!\\lb <br>Możesz wyraźnie zobaczyć swoje odbicie w ostrzu."
+
+# -----------------------------------------------
+# - LIGHTBULB BREAK
+# -----------------------------------------------
+message_30:
+    text: "W środku jest ciemno.\\! Niczego nie widać."
+
+# -----------------------------------------------
+# - MISCELLANOUS
+# -----------------------------------------------
+message_21:
+    text: "Nie możesz wyjść bez broni."
+
+message_31:
+    text: "Dostałeś ZAMAZANE ZDJĘCIE"
+
+message_32:
+    text: Dostałeś BŁYSZCZĄCY NÓŹ.
+
+# -----------------------------------------------
+#           "WHITE SPACE" (MAP 388)
+# -----------------------------------------------
+
+
+
+# -----------------------------------------------
+# - THE WHITE DOOR
+# -----------------------------------------------
+message_100:
+    text: "Białe drzwi rzucają słaby cień.\\!<br>Co chciałbyś robić?"
+message_101:
+    text: "OTWÓRZ DRZWI"
+message_102:
+    text: "WPATRYWAJ SIĘ NA DRZWI"
+message_103:
+    text: "Wpatrywałeś się na drzwi."
+
+# -----------------------------------------------
+# - THE CAT
+# -----------------------------------------------
+message_104:
+    text: \n<CAT>Miau?
+
+# -----------------------------------------------
+# - THE LAPTOP
+# -----------------------------------------------
+message_105:
+    text: "Same zakłócenia"
+message_106:
+    text: "Co chciałbyś zrobić?"
+message_107:
+    text: "PATRZ NA KLAWIATURĘ"
+message_108:
+    text: "WPATRYWAJ SIĘ W EKRAN"
+message_109:
+    text: "WYLOGUJ SIĘ"
+message_110:
+    text: "Wpatrywałeś się w ekran."
+# message_111:
+#     text: "The heat from the laptop warmed your lap.\\!\\lb It felt nice."
+message_112:
+    text: "Nie możesz korzystać z laptopa z tej strony."
+
+# -----------------------------------------------
+# - THE SKETCHBOOK
+# -----------------------------------------------
+message_113:
+    text: "Szkicownik.\\!\\lb Zajrzeć do środka?"
+message_114:
+    text: "TAK"
+message_115:
+    text: "NIE"
+
+# -----------------------------------------------
+# - THE TISSUE BOX
+# -----------------------------------------------
+message_116:
+    text: "Pudełko na chusteczki."
+
+# -----------------------------------------------
+# - THE LIGHTBULB
+# -----------------------------------------------
+message_117:
+    text: "Żarówka zwisa z sufitu, gdziekolwiek się znajduje.\\!\\lb<br>Zajrzeć do żarówki?"
+message_118:
+    text: "W środku jest ciemno.\\! Niczego nie widać."
+
+# -----------------------------------------------
+# - OMORI
+# -----------------------------------------------
+message_120:
+    faceset: 01_OMORI_BATTLE
+    faceindex: 0
+    text: \n<OMORI>...
+
+message_121:
+    text: "Żarówka zwisa z sufitu.\\!\\lb<br>Chcesz ją zniszczyć?"
+
+message_125:
+    text: Nauczyłeś się \c[1]CZERWONE RĘCE\c[0].
+
+message_126:
+    text: Znalazłeś mapę.
+
+#BLACK SPACE Door
+
+message_200:
+    text: "Czarne drzwi rzucają ciężki cień.\\!<br>Co chciałbyś zrobić?"

@@ -1,0 +1,143 @@
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+#BIRD SIGN NAMES:
+#PANIE. PARROT: GRAWK!
+#MRS. CHICKEN: BAWK, BAWK!
+#PANIE. SEAGULL: CAWWWW!
+#PANIE. PENGUIN: BRRRRRRR!
+#MRS. FLAMINGO: GRAA! GRAA!
+#PANIE. BIRD: KER-CRAA...
+#MRS. PARROT: CHEEP!
+
+
+
+
+message_0:
+      text: \n<PAN PAPUGA>Squak!\! (\i[6]\c[11]LAS WIATRACZKÓW\c[0])\!<br>Squak, squak!\! (\i[3]\c[11]MGLISTY LAS\c[0])
+
+message_1:
+      text: \n<PAN PAPUGA>Squak!\! (\i[5]\c[11]STACJA KOLEJOWA\c[0])\!<br>Squak, squak!\! (\i[4]\c[11]MGLISTY LAS\c[0])
+
+message_2:
+      text: \n<PAN PAPUGA>Squak!\! (Kolejka zaczyna się tutaj.)
+
+message_3:
+      text: \n<PANI PAPUGA>Cheep!\! (\i[1]\c[11]OTHERWORLD OBOZOWISKO\c[0])\!<br>Cheep, cheep!\! (\i[4]\c[11]POLE PAŁEK\c[0])
+
+message_4:
+      text: \n<PANI PAPUGA>Cheep!\! (\i[3]\c[11]OTHERWORLD JEZIORO\c[0])\!<br>Cheep, cheep!\! (\i[4]\c[11]OTHERWORLD OBOZOWISKO\c[0])\!<br>Cheep, cheep, cheep!\! (\i[1]\c[11]WYSYPISKO\c[0])
+
+message_5:
+      text: \n<PANI PAPUGA>Cheep!\! (\i[6]\c[11]POLE PAŁEK\c[0])\!<br>Cheep, cheep!\! (\i[4]\c[11]OTHERWORLD OBOZOWISKO\c[0])\!<br>Cheep, cheep, cheep!\! (\i[2]\c[11]ZAMARZNIĘTE JEZIORO\c[0])
+
+message_6:
+      text: \n<PAN PINGWIN>Brrrrrrr!\! (Opuść to miejsce!)\!<br>Brr... Brrrrr!\! (Podpisano, SXH)
+
+message_7:
+      text: \n<PAN PINGWIN>Brrrrrrr!\! (Zawróć, póki jeszcze możesz...)\!<br>Brr... Brrrrr!\! (Podpisano, SXH)
+
+message_8:
+      text: \n<PAN PINGWIN>Brrrrrrr!\! (Nic tu dla ciebie nie ma... Odejdź!)\!<br>Brr... Brrrrr!\! (Podpisano, SXH)
+
+message_9:
+      text: \n<PAN PINGWIN>Brrrrrrr!\! (Idź stąd! Zostaw mnie mojej nędznej egzystencji!)\!<br>Brr... Brrrrr!\! (Podpisano, SXH)
+
+message_10:
+      text: \n<PAN PINGWIN>Brrrrrrr!\! (Głupotą byłoby kontynuowanie.\!<br>Żałuję, że nikt mi nie powiedział...)\!<br>Brr... Brrrrr!\! (Podpisano, SXH)
+
+message_11:
+      text: \n<PAN PINGWIN>Brrrrrrr!\! (W miłości i na wojnie wszystko jest dozwolone...\! ale i tak boli gdy przegrywasz...)\!<br>Brr... Brrrrr!\! (Podpisano, SXH)
+
+message_12:
+      text: \n<PAN PINGWIN>Brrrrrrr!\! (Nic nie zyskasz przychodząc tu, tak jak ja.\! To wszystko będzie na nic.)\!<br>Brr... Brrrrr!\! (Podpisano, SXH)
+
+message_36:
+      text: \n<PAN PINGWIN>Brrrrrrr!\! (Nie przychodź mnie szukać...\! Teraz tylko zimno może dotrzymać mi towarzystwa.)\!<br>Brr... Brrrrr!\! (Podpisano, SXH)
+
+
+#DIRECTIONS:
+#UP: \i[1]
+#DOWN: \i[2]
+#RIGHT: \i[3]
+#LEFT: \i[4]
+#UP LEFT: \i[5]
+#UP RIGHT: \i[6]
+#DOWN LEFT: \i[7]
+#DOWN RIGHT: \i[8]
+
+message_13:
+      text: \n<PANI FLAMING>Graa!\! (\i[1]\c[11]KRÓLEWSKA KUCHNIA\c[0])\!<br>Graa, graa!\! (\i[1]\c[11]MIESZKANIA PODDANYCH\c[0])\!<br>Graa, graa, graa!\! (\i[8]\c[11]KRÓLEWSKA SALA BALOWA\c[0])
+
+message_14:
+      text: \n<PANI FLAMING>Graa!\! (\i[1]\c[11]KRÓLEWSKIE KOMNATY\c[0])\!<br>Graa, graa!\! (\i[7]\c[11]KRÓLEWSKA GALERIA\c[0])\!<br>Graa, graa, graa!\! (\i[7]\c[11]KRÓLEWSKA BIBLIOTEKA\c[0])
+
+message_15:
+      text: \n<PANI FLAMING>Graa!\! (\i[1]\c[11]KRÓLEWSKA GALERIA\c[0])\!<br>Graa, graa!\! (Wystawa w tym miesiącu to...)\!<br>Graa, graa, graa!\! (\"OBRAZY SWEETHEART\")
+
+message_16:
+      text: \n<PANI FLAMING>Graa!\! (\i[1]\c[11]KRÓLEWSKA BIBLIOTEKA\c[0])\!<br>Graa, graa!\! (Przypomnienie... Zakaz czytania bez pozwolenia.)
+
+message_17:
+      text: \n<PANI FLAMING>Graa!\! (\i[1]\c[11]RÓLEWSKA SALA BALOWA\c[0])\!<br>Graa, graa!\! (Przypomnienie... Karaoke jest TYLKO w piątki.)
+
+message_18:
+      text: \n<PANI FLAMING>Graa!\! (\i[1]\c[11]WINDA DO KRÓLEWSKICH KOMNAT\c[0])\!<br>Graa, graa!\! (Przypomnienie... Nie możesz tu wejść, chyba że jesteś pięknym zalotnikiem wybranym ręcznie przez SWEETHEART.)<br>Graa, graa, graa!\! (chyba że jesteś CASTELLĄ.)
+
+message_19:
+      text: \n<PANI FLAMING>Graa!\! (\i[1]\c[11]THE ROYAL BATH\c[0])\!<br>Graa, graa!\! (Przypomnienie... basen należy regularnie uzupełniać.)
+
+message_20:
+      text: \n<PANI FLAMING>Graa!\! (\i[1]Specjalne piekło dla ciebie, moja droga...)\!<br>Graa, graa!\! (PODPISANO, SWH)
+
+message_21:
+      text: \n<PAN MEWA>Cawww!\! (\i[1]\c[11]OPUSZCZONA BUDOWA\c[0])\!<br>Cawww, cawwwww!\! (\i[4]\c[11]PŁATNA AUTOSTRADA\c[0])
+
+message_22:
+      text: \n<PAN MEWA>Cawww!\! (\i[1]\c[11]OPUSZCZONA BUDOWA\c[0])\!<br>Cawww, cawwwww!\! (\i[4]\i[3]\c[11]PŁATNA AUTOSTRADA\c[0])
+
+message_23:
+      text: \n<PAN MEWA>Cawww!\! (\i[1]\c[11]LAST RESORT\c[0])\!<br>Cawww, cawwwww!\! (\i[4]\i[3]\c[11]NIESKOŃCZONA AUTOSTRADA\c[0])
+
+message_24:
+      text: \n<PAN MEWA>Cawww!\! (\i[4]\i[3]\c[11]NIESKOŃCZONA AUTOSTRADA\c[0])
+
+message_25:
+      text: \n<PAN MEWA>Cawww!\! (Uwaga!)\!<br>Cawww, cawwwww!\! (Basen jest nawiedzony!)
+
+message_26:
+      text: \n<PAN MEWA>Cawww!\! (Uwaga!)\!<br>Cawww, cawwwww!\! (Basen jest w trakcie budowy.)
+
+message_27:
+      text: \n<PAN MEWA>Cawww!\! (To już koniec autostrady.)
+
+message_28:
+      text: \n<PAN PTAK?>Ker-craa...\! (Dziwna narośl.)\!<br>Ker-craa... aaa...\! (Regeneruje się po rozbiciu.)
+
+message_29:
+      text: \n<PAN PTAK?>Ker-craa...\! (Inteligentna narośl.)\!<br>Ker-craa... aaa...\! (Wygodnie zamieni się w most po rozbiciu.)
+
+message_30:
+      text: \n<PAN PTAK?>Ker-craa...\! (667 experyment MARINY.)\!<br>Ker-craa... aaa...\! (Uwaga... Nie dotykaj szkła.)
+
+message_31:
+      text: \n<PAN PTAK?>Ker-craa...\! (Prace terenowe w toku. Nie przeszkadzać.)
+
+message_32:
+      text: \n<PAN PTAK?>Ker-craa...\! (Prace laboratoryjne w toku. Przeszkadzaj oszczędnie.)
+
+message_33:
+      text: \n<PAN MEWA>Cawww!\! (MUZYCZNE MAŁŻE w szkoleniu.)\!<br>Cawww, cawwwww!\! (Proszę okaż im swoje wsparcie.)
+
+message_34:
+      text: \"TO GRA!\"<br>\!\"DOPASUJ TRZECH GOŚCI O NAGRODĘ!\"
+
+message_35:
+      text: \n<PTAK MOLE>Squak?
+
+message_37:
+      text: \n<PANI FLAMING>Graa!\! (Skromna siedziba ROSY!)\!<br>Graa, graa!\! (\#1 fan SWEETHEART na świecie!)
+
+message_100:
+      text: \i[4]\c[11]STACJA KOLEJOWA\c[0]<br>\i[3]\c[11]LAS WIATRACZKÓW<br>\i[2]\c[11]DOM BASIL'a\c[0]

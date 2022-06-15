@@ -1,0 +1,556 @@
+#========================================================================================================================
+
+#BASIL'S PATH DIALOGUE
+
+#========================================================================================================================
+#UGLY PLANT CREATURE
+#========================================================================================================================
+
+message_0:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelWhoa!\! Co to za brzydkie stworzenie roślinne?
+
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aubNie wiesz, KEL?\! To KIEŁEK!
+
+message_2:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: \aubKIEŁKI są bardzo mądrymi stworzeniami, ale robią się bardzo niebezpieczne, kiedy się zgubią.
+
+message_3:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basHej, PANIE KIEŁEK! Czy wszystko tam w porządku?
+
+#KIEŁEK does Question Mark
+
+message_4:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basC-Czy zgubiłeś się przypadkiem??
+
+#KIEŁEK turns to PARTY. then vibrates. Then runs toward party.
+
+message_5:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \herUh-oh...\! Chyba mamy odpowiedź!
+
+message_6:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \her\Com[2]Uważajcie wszyscy! Zmierza prosto w naszą stronę!
+
+#========================================================================================================================
+#UGLY PLANT CREATE - AFTER BATTLE
+#========================================================================================================================
+
+message_10:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basUff...\! Czy wszyscy są w porządku?
+
+message_11:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basPrzepraszam...\! Ostatnio jest tu dużo ZGUBIONYCH KIEŁKÓW w okolicy.\! Nie lubię walczyć, ale jestem pewien, że wszystko będzie w porządku kiedy tu jesteście.
+
+message_12:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubNie martw się, BASIL!\! Od teraz zadbamy o to!
+
+#========================================================================================================================
+#BESTIARY
+#========================================================================================================================
+
+message_15:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: \herHej, OMORI!\! Teraz jak zaczynasz łapać walczenie...\! Masz tutaj dziennik, w którym możemy zapisywać wszystkich wrogów, których napotkamy.
+
+message_16:
+      text: HERO dał ci dziennik \c[4]CIEKAWOSKI WROGÓW!\c[0].
+
+message_17:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herTu, teraz jest w twojej KIESZENI.\! Dziennik jest twój do zapisywania, ale czasami też coś dopiszemy!
+
+message_18:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: \herSprawdź go w swoim MENU GRACZA klikając \DII[escape].
+
+
+#========================================================================================================================
+#BASIL EXPLAINS FLOWERS 1
+#========================================================================================================================
+
+#SUNFLOWER
+
+message_20:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basChodźcie tutaj, ludzie! Chce wam coś pokazać.
+
+message_21:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basTo są słoneczniki.\! Nazywają się tak, bo zawsze obracają się w stronę słońca.
+
+message_22:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basChcę takim być...\! ktoś, kto zawsze widzi jasną stronę rzeczy.
+
+#LILY
+
+message_23:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basTe kwiatki nazywają się Konwaliami majowymi.\! Mówi się, że potrafią odpędzać złe duchy i pomagają ludziom widzieć jaśniejszą przyszłość...
+
+message_24:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basDlatego przypominają mi MARI!\!<br>Zawsze mogę na nią liczyć, że pomoże mi pozostać pozytywnym!
+
+#========================================================================================================================
+#BATTLE TUTORIAL - ANGRY
+#========================================================================================================================
+
+#KIEŁEK STOMPING
+
+message_30:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \basOh, nie! To następny ZGUBIONY KIEŁEK!
+
+message_31:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \bas\Com[2]Proszę, PANIE KIEŁEK! Przestań!<br>Depczesz po wszystkich kwiatach...
+
+#KIEŁEK STOMP HARDER
+#KIEŁEK RAMS INTO PARTY
+
+#message_32:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 46
+#      text: \herUh-oh!\! It's no use, BASIL...\!<br>It looks like this KIEŁEK is ANGRY.
+
+#message_33:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 39
+#      text: \herMuch like us, KIEŁKI also feel EMOTION.\! Since this KIEŁEK is ANGRY, its attacks are stronger... but in its recklessness, also leaves itself wide open.
+
+#message_34:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 2
+#      text: \aubRight!\! So what HERO is saying is that now is the perfect time for us to stop him!
+
+#message_35:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 3
+#      text: \aubDon't worry about a thing, BASIL! We'll save your flowers!\!<br>Come on, OMORI! Let's get em!
+
+#AFTER BATTLE
+
+message_36:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basAh...\! Większość kwiatów jest nietknięta...\! Jaka ulga!
+
+message_37:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basJesteśmy prawie w moim domu.\! Idźmy dalej tą ścieżką!
+
+#========================================================================================================================
+#BASIL EXPLAINS FLOWERS 2
+#========================================================================================================================
+
+#ROSE
+
+message_40:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basTo są róże!<br>Możecie zgadnąć, kogo mi przypominają?
+
+message_41:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \bas...\! Przypominają mi HERO!\! Zgadliście poprawnie?
+
+message_42:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basRóże występują w wielu różnych kolorach i mają swoje wyjątkowe znaczenia.
+
+message_43:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basRóżowe róże symbolizują admirację... Pomarańczowe róże symbolizują pasję... Żółte róże symbolizują przyjaźń... i tak dalej!
+
+message_44:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basHERO nie przypomina mi szczególnie żadnej róży.\!<br>Myślę, że HERO jest jak wszystkie róże, bo jest wszechstronny i powszechnie kochany!
+
+#GLADIOLUS
+
+message_45:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basAh!\! To są kwiaty zwane Gladiola!
+
+message_46:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelGladi-co?
+
+message_47:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basGladiola! Znane również jako Mieczyki!
+
+message_48:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basJak mogliście zgadnąć, przedstawiają siłę charakteru.\! Ktoś, kto jest szczery, z silnymi wartościami moralnymi...\! Ktoś, kto trwa przy swoich przekonaniach...
+
+message_49:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basGladiola przypomina mi AUBREY, bo zawsze jest sobie wierna!
+
+message_50:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelOh, widzę...<br>\!Więc mówisz, że AUBREY jest bardzo uparta!
+
+message_51:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aubHej! Nie, nie jestem!
+
+message_52:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basHaha...\! Dobra! Przejdźmy dalej!
+
+#========================================================================================================================
+#BATTLE TUTORIAL - HAPPY
+#========================================================================================================================
+
+#KIEŁEK TWIRLING
+
+message_60:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \bas\Com[2]Oh nie, nie znowu!\! Proszę, PANIE KIEŁEK! Przestań się kręcić!\! Niszczysz moje kwiatki!
+
+#KIEŁEK TWIRLS HARDER
+#KIEŁEK TWIRLS INTO PARTY
+
+#message_61:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 39
+#      text: \herHmm... Let's see...\! From what I can gather, this KIEŁEK looks like its HAPPY!<br><br>As it flails around in its frenzy, it has a higher chance to hit our weak spots and do more damage, but it also means it has a higher chance of hitting nothing!
+
+#message_62:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 4
+#      text: \aubCome on, OMORI!<br>We have to stop it before it squishes all the flowers!
+
+#message_63:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 18
+#      text: \kelLet's show this ugly plant creature who's boss!
+
+#========================================================================================================================
+#BASIL EXPLAINS FLOWERS 3
+#========================================================================================================================
+
+message_70:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelWhoa! Jak nazywają się te kwiatki? Są fajne i kolczaste!
+
+message_71:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basTak właściwie, KEL... To jest kaktus!\! Jest bardziej rośliną niż kwiatkiem...\! i śmiesznie, że pytasz, bo przypominają mi ciebie!
+
+message_72:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubCzy to dlatego, że...\! jest wredny?
+
+message_73:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \kelHej!
+
+message_74:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basCóż...\! To też, ale głównie dlatego, że kaktusy są z natury bardzo wytrzymałymi i odpornymi roślinami.<br><br>Nie wymagają wiele opieki i potrafią przetrwać nawet w pozornie niemożliwych warunkach!
+
+message_75:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basMówię... że nawet ty mógłbyś zaopiekować się kaktusem, KEL!
+
+message_76:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelWhoa, fajnie!\! Kaktusy są świetne!
+
+message_77:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basAh...\! To są białe tulipany.\!<br>Zwykłe, proste i bulwiaste... tak jak OMORI!
+
+message_78:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basNie wiem... myślę, że są słodkie.
+
+#========================================================================================================================
+#BASIL PATH - SAD FLOWER DAYS
+#========================================================================================================================
+
+message_200:
+      text: \basTo są słoneczniki.\! Nazywają się tak, bo zawsze obracają się w stronę słońca.
+
+message_201:
+      text: \basChcę takim być...\! ktoś, kto zawsze widzi jasną stronę rzeczy.
+
+message_202:
+      text: \basTTe kwiatki nazywają się Konwaliami majowymi.\! Mówi się, że potrafią odpędzać złe duchy i pomagają ludziom widzieć jaśniejszą przyszłość...
+
+message_203:
+      text: \basDlatego przypominają mi MARI!\!<br>Zawsze mogę na nią liczyć, że pomoże mi pozostać pozytywnym!
+
+message_204:
+      text: \basRóże występują w wielu różnych kolorach i mają swoje wyjątkowe znaczenia.
+
+message_205:
+      text: \basRóżowe róże symbolizują admirację... Pomarańczowe róże symbolizują pasję... Żółte róże symbolizują przyjaźń... i tak dalej!
+
+message_206:
+      text: \basHERO nie przypomina mi szczególnie żadnej róży.\!<br>Myślę, że HERO jest jak wszystkie róże, bo jest wszechstronny i powszechnie kochany!
+
+message_207:
+      text: \basTo są kwiaty zwane Gladiola, znane również jako Mieczyki!
+
+message_208:
+      text: \basJak mogliście zgadnąć, przedstawiają siłę charakteru.\! toś, kto jest szczery, z silnymi wartościami moralnymi...\! Ktoś, kto trwa przy swoich przekonaniach...
+
+message_209:
+      text: \basGladiola przypomina mi AUBREY, bo zawsze jest sobie wierna.
+
+message_210:
+      text: \basKaktusy są z natury bardzo wytrzymałymi i odpornymi roślinami.\! Nie wymagają wiele opieki i potrafią przetrwać nawet w pozornie niemożliwych warunkach!
+
+message_211:
+      text: \basMówię... że nawet ty mógłbyś zaopiekować się kaktusem, KEL...
+
+message_213:
+      text: \basA te...\! To są białe tulipany.\! Tulipany nie są hucznymi roślinami.\! Nie są za duże, ani za małe, niezbyt skomplikowane ani ekstrawaganckie.
+
+message_214:
+      text: \basGdybym mógł ująć to w inny sposób...\! Myślę, że powiedziałbym...\! są wygodne.\! proste, skromne i doskonałe.\!<br>Tak jak \n[8].
+
+
+
+
+#========================================================================================================================
+#BATTLE TUTORIAL - SAD
+#========================================================================================================================
+
+#KIEŁEK staying still on top of a flower
+
+message_80:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \basAh! Następny KIEŁEK!
+
+message_81:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelWszystko w porządku, BASIL!\! Już to załapaliśmy!
+
+#KEL WALKS UP TO KIEŁEK AND TAPS IT. KIEŁEK TURNS AROUND. PROCS BATTLE.
+
+#message_X:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 40
+#      text: \herHmm...\! Judging by the looks of it, this KIEŁEK seems a bit SAD...<br><br>See how it's curled up in the fetal position?\!<br>That means it takes less damage to its HEART, but it also loses a bit of JUICE in its place...
+
+#message_82:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 19
+#      text: \kelLet's just put it out of its misery!
+
+#message_83:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 11
+#      text: \aubWait, what?
+
+#message_84:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 18
+#      text: \kelCome on, OMORI! You know what to do!
+
+#========================================================================================================================
+#YE OLD SPROUT
+#========================================================================================================================
+
+#Before seeing anything, hear stomping noises and then a quake like something sat down.
+
+
+
+#Happens in the middle of the battle
+#Party members facing YE OLD SPROUT blocking the entrance to BASIL's house in order from left to right: OMORI, AUBREY, KEL, HERO. BASIL standing behind them.
+
+message_90:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herOh chłopie, ta walka jest dość trudna...\! Ale nie martw się!<br>Możemy to zrobić, jeśli będziemy współpracować!
+
+message_91:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: \herWygląda na to, że będę was musiał trochę nauczyć o pracy zespołowej!\! Spróbujmy jeszcze raz, OMORI!<br>Teraz nam się uda!
+
+#========================================================================================================================
+#WHEN STEPPING ON FLOWER WHEN BASIL IS IN PARTY
+#========================================================================================================================
+
+message_92:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basP-proszę, nie deptaj kwiatków
+
+#[Player moves one step back]
+
+message_93:
+      text: Kwiat.
+
+#========================================================================================================================
+#MISC
+#========================================================================================================================
+
+message_100:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herCzekaj, OMORI! Dom BASIL'a nie jest w tą stronę!
+
+message_101:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubGdzie idziesz, OMORI?\!<br>Pomóżmy BASILOWI ułożyć jego \c[4]ALBUM ZDJĘĆ\c[0]!
+
+message_102:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basJesteś gotowy włożyć zdjęcia z powrotem, OMORI?\!<br>Poczekam tutaj, aż będziesz gotowy.
+
+
+
+#========================================================================================================================
+#UMIEJĘTNOŚĆ DESCRIPTION
+#========================================================================================================================
+
+#short pause
+
+message_156:
+      text: \c[4]ALBUM ZDJĘĆ\c[0] BASIL'a.\! Jego najcenniejsza rzecz.
+
+message_163:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herNo i proszę...\! PORADNIK WALK HERO 101!\! I jestem pewien, że im więcej będziemy walczyć, tym nasza praca zespołowa poprawi się w szybkim tempie!
+
+message_157:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: Wow!\! To było niesamowite!\bas
+
+message_158:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: Ah, to było nic... Heh, heh.\! Pokonałem większych wrogów niż to!\! Powinienem nauczyć cię niektórych z moich \c[1]UMIEJĘTNOŚCI\c[0] któregoś dnia!\kel
+
+message_159:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: BASIL... Wiem, że nie jesteś osobą, która lubi walczyć...\! ale warto wiedzieć, jak się obronić!\aub
+
+message_160:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Wiesz...\! Pracowałem nad książką o walkach!\! Może pouczymy się razem następnym razem.\! Na razie dam ją OMORI. \her
+
+message_169:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: \herGdy stajemy się silniejsi, będę aktualizować rozdział FOLLOW-UP \c[4]PRZEWODNIK SAMOPOMOCY\c[0], więc sprawdzaj go od czasu do czasu!
+
+message_152:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: OMORI, powinieneś wiedzieć...\! Gdy zdobywamy EXP i LEVEL UP, czasem też nauczymy się \c[1]UMIEJĘTNOŚCI\c[0].\her
+
+message_153:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: \c[1]UMIEJĘTNOŚCI\c[0] są silne i mają szeroki zakres działania, ale każdy z nas może pamiętać tylko 4 \c[1]UMIEJĘTNOŚCI\c[0] na raz.\her
+
+message_154:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: Po nauczeniu się nowej \c[1]UMIEJĘTNOŚCI\c[0], nie zapomnij wyposażyć ją w MENU GRACZA, dobrze?\her
+
+message_161:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: Tak, tak... Wiemy!\! Możemy już iść do domu BASIL'a?\kel
+
+message_162:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: Dobrze! To wszystko, co chciałem powiedzieć!\! Cierpliwości, KEL...\her
+
+#========
+#EMOTION
+
+#=======
+
+message_165:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Hmmm...\! Natykamy się na wielu przeciwników z EMOCJAMI.\her
+
+message_166:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: \herNa wypadek, gdybyś nie wiedział, EMOCJE potrafią decydować, jak silny lub słaby jest atak.\! SZCZĘŚLIWY pokonuje ZŁY...\! ZŁY pokonuje SMUTNY...\! i SMUTNY pokonuje SZCZĘŚLIWY!
+
+message_167:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: Narysowałem nawet poradnik jak działają!\! Nie jestem artystą, ale chyba zrozumiesz o co chodzi.\! Włożę ci do KIESZENI, żebyś mógł to później sprawdzić.\her
+
+message_168:
+      text: Dostałeś \c[4]WYKRES EMOCJI\c[0].
+
+message_170:
+      text: Chcesz teraz sprawdzić \c[4]WYKRES EMOCJI\c[0]?

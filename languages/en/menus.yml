@@ -1,0 +1,126 @@
+ # ===========================================
+ # Menu scenes and translations
+ # ===========================================
+
+plugins:
+  mainMenu:
+    commands:
+      - ['???', 'TAG', 'DŹGNIJ']
+      - WYPOSAŻ
+      - KIESZEŃ
+      - UMIEJĘTNOŚĆ
+      - OPCJE
+    status:
+      tag: WYBRAĆ KOGO?
+      select: WYBRAĆ KOGO?
+
+  equipMenu:
+    weapon: BROŃ
+    charm: CHARM
+    replace: ZAMIENIĆ Z?
+
+  skillMenu:
+    skills: UMIEJĘTNOŚCI
+    replace: ZAMIENIĆ Z?
+    DoWhat: CO ZROBIĆ?
+    use: UŻYJ
+    swap: ZAMIEŃ
+    useon: UŻYĆ NA KIM?
+
+  pocketMenu:
+    consumables: JEDZENIE
+    toys: ZABAWKI
+    important: WAŻNE
+    trash: ŚMIECI
+    use: UŻYJ
+    sure: NA PEWNO?
+    useon: UŻYĆ NA KIM?
+
+  optionsMenu:
+    general:
+      screenResolution:
+        text: ROZDZIELCZOŚĆ EKRANU
+        options: ['X1', 'X2', X3, X4]
+        help: zmień rozdzielczość ekranu.
+        spacing: 80
+
+      fullScreen:
+        text: PEŁNY EKRAN
+        options: ['WŁ', 'WYŁ']
+        help: Zmień na tryb pełnoekranowy.
+        boolIndex: true
+        spacing: 80
+
+      commandRemember:
+        text: ZAPAMIĘTAJ WYBRANE POLECENIA
+        options: ['WŁ', 'WYŁ']
+        help: Zapamiętaj wybrane polecenia podczas walki.
+        boolIndex: true
+        spacing: 80
+
+      battleAnimations:
+        text: ANIMACJE WALKI
+        options: ['WŁ', 'WYŁ']
+        help: TEKST POMOCNICZY
+        boolIndex: true
+        spacing: 80
+
+      battleAnimationSpeed:
+        text: PRĘDKOŚĆ ANIMACJI WALKI
+        options: ['NORMALNY', 'SZYBKI', 'SZYBSZY', 'NAJSZYBSZY']
+        help: TEKST POMOCNICZY
+        spacing: 130
+
+      battleLogSpeed:
+        text: PRĘDKOŚĆ TEKSTU PODCZAS WALKI
+        options: ['NORMALNY', 'AUTO']
+        help: HELP TEXT
+        spacing: 130
+
+      alwaysDash:
+        text: RUCH POSTACI
+        options: ['BIEG', 'CHÓD']
+        help: HELP TEXT
+        boolIndex: true
+        spacing: 130
+
+    audio:
+      bgmVolume:
+        text: GŁOŚNOŚĆ MUZYKI
+        help: zmień głośność muzyki w tle.
+
+      bgsVolume:
+        text: GŁOŚNOŚĆ DŹWIĘKU
+        help: Zmień głośność dźwięków w tle.
+
+      meVolume:
+        text: GŁOŚNOŚĆ EM
+        help: Zmień głośność efektów muzycznych.
+
+      seVolume:
+        text: GŁOŚNOŚĆ ED
+        help: Zmień głośność efektów dźwiękowych.
+
+    controls:
+      keyboardHeader: KLAWIATURA
+      gamepadHeader: KONTROLER
+      pressKeyPrompt: NACIŚNIJ KLAWISZ
+      resetAll: RESETUJ WSZYSTKO
+      help: Naciśnij klawisz, aby zmienić wejście.
+      inputNames:
+        up: GÓRA (↑)
+        down: DÓŁ (↓)
+        left: LEWO (←)
+        right: PRAWO (→)
+        ok: POTWIERDŹ
+        escape: ANULUJ
+        shift: BIEG
+        tag: OZNACZ
+        tab: STRAFE
+        pageup: LB
+        pagedown: RB
+
+    system:
+      load:
+        text: ZAŁADUJ ZAPIS
+        help: załaduj zapis gry.

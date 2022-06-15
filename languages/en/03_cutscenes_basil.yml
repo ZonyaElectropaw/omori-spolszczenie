@@ -1,0 +1,366 @@
+# =========================================================================================
+# Cutscene: FALLEN PHOTO
+# =========================================================================================
+
+#TRIGGER: Enter Basil's House Entrance.
+
+#OMORI and party walk in screen.
+
+message_0:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \Com[2]\SINV[1]Powiedz ser!\SINV[0]\bas
+
+#Screen flashes white
+#BASIL takes a photo of the party
+#BASIL takes out photo
+
+message_1:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: Aww, wyszło trochę zamazane...\!<br>Cóż, w porządku. To nadaje mu charakteru.\bas
+
+#BASIL puts away photo
+
+message_2:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: Mam nadzieję, że zdjęcie wam nie przeszkadza.\bas
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: Oczywiście, że nam nie przeszkadza! Chcę je zobaczyć!\aub
+
+message_4:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: O-Oh, jasne.\bas
+
+#BASIL takes out PHOTO ALBUM.
+#AUBREY runs to the side of BASIL.
+#AUBREY jumps.
+
+message_5:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \SINV[1]Wszyscy wyglądamy tak słodko!\SINV[0]\aub
+
+#HERO walks up to the side of BASIL.
+
+message_6:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Jak moje włosy?\her
+
+#KEL jumps
+
+message_7:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \Com[2]\{CHCĘ ZOBACZYĆ!! CHCĘ ZOBACZYĆ!!\kel
+
+#KEL runs up to the front of BASIL.
+#TRIGGER: OMORI talks to BASIL from behind.
+
+message_8:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: Oh hej, OMORI! Też chciałeś obejrzeć zdjęcie?\bas
+
+#BASIL gave you a GROUP Photo
+#SLIDE: GROUP PHOTO (DREAM)
+
+message_9:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: Szkoda, że wyszło trochę niewyraźnie, ale nadal wyglądacie tak słodko.\! Powinienem dodać je do mojej kolekcji!\bas
+
+#BASIL takes out his PHOTO ALBUM.
+
+message_10:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \sinv[1]Woo-hoo!\sinv[0] Kolejne zdjęcie do \c[4]ALBUMU ZDJĘĆ\c[0]!\kel
+
+#SLIDE: BASIL'S PHOTO ALBUM (DREAM)
+
+# =========================================================================================
+# Cutscene: Photo Accident
+# =========================================================================================
+
+#TRIGGER: Finish viewing Slide: Basil's PHOTO ALBUM (Dream).
+#KEL walks next to AUBREY.
+
+message_34:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: \Com[2]przesuń się, AUBREY! Nie widzę!\kel
+
+#KEL pushes AUBREY out of the way and looks at the photos.
+
+message_35:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: \{HEJ, PRZESTAŃ SIĘ PCHAĆ!\aub\}
+
+#AUBREY pushes KEL back.
+
+message_36:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \{JUŻ MIAŁAŚ SWOJĄ KOLEJ!!\kel\}
+
+  #KEL pushes AUBREY back.
+
+message_37:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \{ZEJDŹ MI Z DROGI, KEL!!!\aub\}
+
+message_38:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: C-czekajcie, chwila! Nie ma po co się bić!\bas
+
+message_39:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \Com[2]\{JA PIERWSZY!\kel
+
+message_40:
+
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \Com[2]\{NIE, JA!!\aub
+
+#AUBREY pushes KEL.
+#KEL pushes AUBREY.
+#AUBREY pushes KEL.
+
+message_41:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: Ahh, przestańcie!\! Przewracacie mnie!\bas
+
+#BASIL falls over and spills the Photos all over the floor.
+
+#Aubrey and KEL stop pushing to look at BASIL and are surprised.
+#HERO also looks at BASIL and is surprised.
+
+message_42:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: ... ... ... \bas
+
+
+message_43:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: Uhh...\! Ups...\kel
+
+#Aubrey jumps
+
+message_44:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: O mój Boże...\! BASIL...\! Przepraszam...\aub
+
+#HERO turns to Basil
+
+message_45:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: Wszystko w porządku, BASIL?\her
+
+#HERO turns to KEL and AUBREY.
+
+message_46:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 44
+      text: Wy dwoje macie teraz duże kłopoty!\! Dlatego oboje musicie się nauczyć, jak się dogadać!\her
+
+message_47:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 29
+      text: Przepraszam... Nie chcieliśmy, HERO!<br>\!Proszę, nie mów MARI...\kel
+
+#BASIL gets up
+
+message_48:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: W porządku, nie martw się..\! Wypadki się zdarzają...\bas
+
+#HERO helps BASIL pick up his photos.
+
+message_49:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: Masz, twoje zdjęcia.\!<br>Nie wygląda na to, żeby któryś z nich został uszkodzony.<br><br>Włóżmy je razem z powrotem do twojego \c[4]ALBUMU ZDJĘĆ\c[0].\her
+
+message_50:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: Dzięki, HERO!\bas
+
+#BASIL walks toward BASIL's house, and then turns toward party.
+
+message_51:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: Najpierw wejdźmy do mojego domu.\!<br>Pamiętajcie wytrzeć stopy zanim wejdziecie!\bas
+
+
+# =========================================================================================
+# Cutscene: Fallen Photo
+# =========================================================================================
+
+#TRIGGER: Trigger: Complete Slide: Sorting Basil's PHOTO ALBUM (Dream)
+
+
+message_70:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: Już, jak nowy.\bas
+
+message_71:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Naprawdę przepraszam że cię przewróciłam, BASIL.\.<br>\}Nawet jeśli co najmniej połowa to wina KEL'a...\aub
+
+message_72:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: Tak, obiecuję, że nigdy więcej nie będę się kłócić z AUBREY!\.<br>\}Chyba, że zacznie pierwsza...\kel
+
+message_73:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: Nie martwcie się tym.\!<br>Wiem, że tylko chcieliście zobaczyć mój \c[4]ALBUM ZDJĘĆ\c[0].\!<br>Dzięki za pomoc w ułożeniu go z powrotem!\bas
+
+
+#BASIL walks to the dinner table carrying the album.
+#A photo falls from the album.
+
+message_74:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: Hm?\! To dziwne.\!<br>Jakieś zdjęcie musiało być luźne.\bas
+
+#BASIL picks up the photo.
+
+message_75:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: Huh? Co to jest?\! Czy ja zrobiłem to zdjęcie?\bas
+
+
+message_76:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: Coś w nim wydaję się...\! znajome.\bas
+
+
+#BASIL glitches out. Basil's Something silhouette pulses on the floor.
+
+
+message_79:
+      faceset: MainCharacter_Basil
+      faceindex: 5
+      text: N-Nie...\! To nie może być...\bas
+
+message_80:
+      faceset: MainCharacter_Basil
+      faceindex: 7
+      text: \fn<OMORI_GAME>MARI...\! Ona...\bas\^
+
+message_81:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: Czy jesteś gotowy, aby ułożyć zdjęcia, OMORI?\bas
+
+message_82:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: Jej! Zaczynajmy!\bas
+
+message_101:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: Aww... Nie ma problemu.\!<br>Czuj się jak w domu!\bas
+
+message_102:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: Nie ma problemu.\! Poczekam tutaj, aż będziesz gotowy.\bas
+# Play Basil Something Animation
+# Player wakes up.
+
+# =========================================================================================
+# Misc
+# =========================================================================================
+
+message_83:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 31
+    text: \n<KEL>Hej, na mnie się nie patrz!\! Nie wiem gdzie pasują zdjęcia!
+
+# =========================================================================================
+# Cutscene: Otherworld Ladder
+# =========================================================================================
+
+message_90:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kel\Com[2]Whoa, ta drabina jest taka wysoka!
+
+message_91:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kelZałożę się, że idzie aż do \{kosmosu!\}
+
+message_92:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 9
+    text: \aubNie bądź głupi, \n[3]. Drabiny nie mogą być aż \{tak\} wysokie.
+
+message_93:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 16
+    text: \kelMoże jeśli będziemy się dalej wspinać, dotrzemy nawet na nową planetę.\!
+
+message_94:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kelWezmę ją sobie jako własną...
+
+message_95:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kel\{I NAZWĘ JĄ \c[13]HECTOR\c[0]!
+
+message_96:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 8
+    text: \aubWow, już ci przeszło po zwierzątku?
+
+message_97:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelNie ma mowy!\! Nazywam ją na jego cześć.
+
+message_98:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 23
+    text: \kelŻeby wiedział, że wciąż szukam...
+
+message_99:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \herT-tak...\! Może później, KEL.
+
+message_100:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 36
+    text: \herMamy teraz ważniejsze rzeczy do zrobienia.

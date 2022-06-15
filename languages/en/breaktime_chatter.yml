@@ -1,0 +1,1243 @@
+# =========================================================================================
+# ** BREAKTIME CHATTER
+# =========================================================================================
+
+#Examine the cooler to prompt breaktime message.
+#The cooler should not appear until the Breaktime becomes available.
+#The dialogue will only play once. Afterwards, if you use the cooler again, it'll just show them at the picnic without the dialogue.
+
+#=====================================================================
+
+#Pre-Epilogue Picnics
+#These events will disappear in Epilogue (some earlier). Some of them will be replaced by new dialogue that includes Basil at the picnic.
+
+#=====================================================================
+
+#OGROMNY LAS:
+
+#=====================================================================
+#**Forest Playground - Only available after checking on Basil's house after Hangman**
+
+message_0:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 28
+    text: \kelZobaczmy...\! Jest DAISY...\! potem jest NEB...\! potem HAPPY...\! BROWS...\! NOSE...\! Czekaj, nie... To DAISY...
+
+message_1:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 1
+    text: \aubCo porabiasz, KEL?
+
+message_2:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 26
+    text: \kelNic...\! Po prostu próbuję zapamiętać imiona wszystkich...
+
+message_3:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aub\com[2]Wciąż nie znasz wszystkich imion!?\! Jak mogłeś?
+
+message_4:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 31
+    text: \kelPrzepraszam, okej? Ja chcę się tylko dobrze bawić...\! Wszyscy się tutaj bawimy, co nie?\! Imiona są mało ważne!
+
+message_5:
+    faceset: MainCharacter_Mari
+    faceindex: 2
+    text: \marW porządku, AUBREY... HERO też zapomina wszystkich imiona.\! To chyba genetyczne...
+
+message_6:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \her\com[2]Hej, pracowałem nad tym!\! Dla niektórych to naturalne, dla innych to nauczona umiejętność!\! Nie wszyscy mamy pamięć jak OMORI...
+
+#------------------------------------------------------------------------------------------------------------------------
+#**Path to Basil (II) - Disappears after entering SGL**
+
+message_7:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 4
+    text: \aubMyślicie, że BASIL jest bezpieczny?\!<br>Czuję, że może powinniśmy się bardziej martwić...
+
+message_8:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 40
+    text: \herHmm...\! Jego zniknięcie jest niepokojące...\! ale nadmierne denerwowanie się nikomu nie pomoże.
+
+message_9:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 5
+    text: \aubBASIL jest bardzo ufny... Uwierzy we wszystko, co mu ktoś powie!
+
+message_10:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 7
+    text: \aubA jeśli ktoś go w coś namówił?\! A może wpadł w pułapkę!
+
+message_11:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \herUspokój się, AUBREY... Jestem pewien, że go znajdziemy!
+
+message_12:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \marWiem!\! Może pójdziecie podlać mu kwiatki kiedy go nie ma?
+
+message_13:
+    faceset: MainCharacter_Mari
+    faceindex: 3
+    text: \marNa pewno będzię bardzo wdzięczny, jak wróci.
+
+message_14:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 12
+    text: \aubSniff...\! Sniff...
+
+message_15:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 29
+    text: \kelAww... AUBREY, przestań!\! Nie lubię kiedy płaczesz!
+
+message_16:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kelRozchmurz się!\! Na zewnątrz BASIL może się wydawać bardzo miękki, ale jest bardzo silny w środku.
+
+message_17:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelBASIL umie zadbać o siebie!\! Powinnaś trochę bardziej w niego wierzyć!
+
+message_18:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 5
+    text: \aubSniff...\! No, kiedy tak to ujmujesz...
+
+message_19:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 4
+    text: \aub...
+
+message_20:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 1
+    text: \aubDobra, spróbuję bardziej uwierzyć w BASIL'a...\! Dzięki, KEL. Hehe...
+
+message_21:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 31
+    text: \kel\com[2]Ahh! Nie uśmiechaj się do mnie! To dziwne!
+
+message_22:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aub\com[2]Ty jesteś dziwny!
+
+message_23:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 9
+    text: \aubHmph!
+
+#------------------------------------------------------------------------------------------------------------------------
+#Kite Kid
+
+message_24:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 31
+    text: \kel\com[2]Gah! Moje uszy znowu pykneły!
+
+message_25:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 39
+    text: \herAh... tak.\! Często się tak zdarza z wysokością.
+
+message_26:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 31
+    text: \kel\quake[1]\com[2]\{CO!?\! MÓWIŁEŚ COŚ?
+
+message_27:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \her\com[2]\{\quake[1]POWIEDZIAŁEM...
+
+message_28:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \her\com[2]\{\quake[1]ŻE TWOJE USZY PYKNEŁY...
+
+message_29:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \her\com[2]\{\quake[1]Z POWODU WYSOKOŚCI!!
+
+message_30:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 9
+    text: \aub\}\sinv[1]Shhhhhhh...\sinv[0] Ciszej!\! Nie jesteśmy tutaj sami!\! Widzicie tamtego chłopca z latawcem?\! Wygląda, jakby się mocno skupiał...
+
+message_31:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 27
+    text: \kel\}Oops...\! Sorki, DZIECIAKU Z LATAWCEM...
+
+#=====================================================================
+
+#Orange Oasis:
+
+#=====================================================================
+
+message_32:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelBrązowy cukier daje przyjemne uczucie na moich nogach!\!<br>Prawie chcę go podnieść i zjeść!
+
+message_33:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11
+    text: \aubTo ohydne, KEL... Dlaczego w ogóle tak myślisz!?\! Jesteś taki dziwny!
+
+message_34:
+    faceset: MainCharacter_Mari
+    faceindex: 2
+    text: \marWszyscy czasami mamy dziwne myśli.
+
+message_35:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \marKEL po prostu nie myśli zanim wypowie je na głos!
+
+message_36:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelHej! Dla mnie to dobrze!\! Jak masz coś do powiedzenia, to to powiedz!
+
+message_37:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 9
+    text: \aubTo takie złe, KEL! Zawsze powinieneś myśleć, zanim coś powiesz!\! Miej trochę samoświadomości!
+
+message_38:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 25
+    text: \kelI kto to mówi? Ty, Pani Szefująca!?
+
+message_39:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 30
+    text: \kelMam mnóstwo samoświadomości!\! Zawsze wiem gdzie jestem!
+
+message_40:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 42
+    text: \herYeesh...\! Wyluzujcie, wy dwoje...
+
+message_41:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: \her\sinv[1]Równowaga, ludzie...\! Najważniejsza jest równowagaty tchórzu...\sinv[0]
+
+message_42:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 26
+    text: \kelHERO... ty tchórzu.
+
+message_43:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aubTo jest najleniwsza odpowiedź jaką kiedykolwiek słyszałam!<br>\! Spodziewałam się czegoś lepszego od ciebie.
+
+message_44:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \herAww, chłopie...\! Co ja złego powiedziałem?
+
+#=====================================================================
+
+#Rain Town:
+
+#=====================================================================
+
+message_45:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 48
+    text: \her\sinv[1]Mmmmmmmm...\| Smaczne...\| Dzięki za tą zupę, MARI...
+
+message_46:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 7
+    text: \aub\sinv[1]Ta...\| zupa...\| jest...\| slurp...\| przepyszna...
+
+message_47:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 23
+    text: \kelMogę...\| dokładkę...\| proszę...?
+
+message_48:
+    faceset: MainCharacter_Mari
+    faceindex: 2
+    text: \marCo jest, ludzie?\! Coś jest nie tak z moją zupą?
+
+message_49:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 23
+    text: \kelUrf...\! Leniwienie się w deszczu jest fajne, ale jedzenie w deszczu to kompletnie inna sprawa...
+
+message_50:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 48
+    text: \herNie wiem, gdzie kończy się deszcz a zaczyna zupa...
+
+#=====================================================================
+
+#Otherworld:
+
+#=====================================================================
+
+
+message_51:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kelKiedy dorosnę, Zostanę KOSMICZNYM PIRATEM...\! i będę podróżował przez cały wszechświat!
+
+message_52:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \marNasze poszukiwania BASIL'a zabrały nas całkiem daleko z domu.\! Jeśli chcesz podróżować po wszechświecie, to masz już dobry początek!
+
+message_53:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kel\sinv[1]Ciekawe jakich przyjaciół poznamy!\! Z jakimi wrogami się zmierzymy...\! To będzie najlepsza podróż jaka kiedykolwiek była!
+
+message_54:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 8
+    text: \aubJesteś za bardzo beztroski, KEL...\! Zapomniałeś, że szukamy BASIL'a?
+
+message_55:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aubPamiętasz?\! Nasz kochany przyjaciel BASIL, który nas potrzebuje?
+
+message_56:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelTak, wiem, wiem...\! Po prostu staram się być pozytywnym!
+
+message_57:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelJestem pewien, że go uratujemy!\! Poza tym, bohaterowie zawsze wygrywają...\! Prawda, HERO?
+
+message_58:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 42
+    text: \herHaha... Bardzo śmieszne, KEL...
+
+#------------------------------------------------------------------------------------------------------------------------
+
+#**Junkyard Couch - Disappears after Day 0**
+
+
+message_59:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelKsiężyc wygląda stąd gigantyczny!\! To jest najpiękniejsze miejsce, jakie kiedykolwiek widziałem!
+
+message_60:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11
+    text: \aubAle tyle tu śmieci...\!<br>Jak możesz mówić, że jest piękne?
+
+message_61:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelAUBREY, AUBREY... Nie bądź takim mokrym kocem.\! Spójrz na rzeczy z dobrej strony!
+
+message_62:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelWiesz, co zawsze mówię...\!<br>“Musisz po prostu wstać i powąchać róże!”
+
+message_63:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aub\com[2]Nigdy tak nie mówisz!
+
+#------------------------------------------------------------------------------------------------------------------------
+
+#Frozen Forest:
+
+message_64:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \herNa prawdę, MARI?\! Golone lody w taką pogodę?
+
+message_65:
+    faceset: MainCharacter_Mari
+    faceindex: 2
+    text: \marI co w tym złego, HERO?\! To takie wygodne!\! Golony lód o wiele łatwiej zdobyć niż \c[3]LODO-ROŻKA\c[0]!
+
+message_66:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 1
+    text: \aubJaka jest w ogóle różnica pomiędzy golonym lodem a \c[3]LODO-ROŻKIEM\c[0]?
+
+message_67:
+    faceset: MainCharacter_Mari
+    faceindex: 2
+    text: \marRealistycznie, to nie ma zbytnio różnicy...\! \c[3]LODO-ROŻKI\c[0] mają po prostu większe kawałki lodu niż golony lód.
+
+
+message_68:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 28
+    text: \kelWiększe kawałki lodu, huh?\! To dlatego \c[3]LODO-ROŻKI\c[0] są o wiele droższe?
+
+message_69:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \marJa...\! Ja nie wiem, KEL!\! Nie wiem jak na to odpowiedzieć...
+
+#=====================================================================
+
+#Pyrefly Forest:
+
+#=====================================================================
+
+#Pyrefly IV -
+
+message_70:
+    faceset: MainCharacter_Mari
+    faceindex: 3
+    text: \marJak sobie radzisz ze strachem przed pająkami, HERO?
+
+
+message_71:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 48
+    text: \her\sinv[1]Huff...\| Wdech... \|Huff... \|Wydech...
+
+message_72:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \marDobrze ci idzie, HERO! Oby tak dalej!
+
+message_73:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 48
+    text: \her\sinv[1]Huff...\| Wdech... \|Huff... \|Wydech...
+
+message_74:
+    faceset: MainCharacter_Mari
+    faceindex: 2
+    text: \marOMORI też bał się pająków, a patrz na niego teraz!\! Nawet nie drgnął!
+
+message_75:
+    faceset: MainCharacter_Mari
+    faceindex: 3
+    text: \marPatrz jaki jest dzielny!
+
+message_76:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \marWow...\! Taki dzielny...
+
+message_77:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 3
+    text: \aubTak!\! Taki dzielny!
+
+#------------------------------------------------------------------------------------------------------------------------
+#**Pyrefly to SM town -  Disappears after entering hidden library / defeating SW**
+
+message_78:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 4
+    text: \aubTen las jest o wiele straszniejszy, niż ten przy placu zabaw...\! I o wiele starszy...
+
+message_79:
+    faceset: MainCharacter_Mari
+    faceindex: 2
+    text: \marJest trochę tajemniczy, co nie?
+
+message_80:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \marSłyszałam, że była tutaj wielka biblioteka wypełniona książkami...\! ale ponieważ nikt się nią nie zajął...\! Z biegiem czasu biblioteka powoli zapadła się pod ziemię...
+
+message_81:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 39
+    text: \herKto ci to powiedział, MARI?
+
+message_82:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \marOh...\! Jakieś cienie tu i tam...\! Jak się skupicie, może też je zobaczycie!
+
+message_83:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kel\com[2]E tam!\! Czytanie jest nudne!\! Zresztą, kto chce czytać?
+
+message_84:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 2
+    text: \aubGdzie jest teraz ta biblioteka, MARI?
+
+message_85:
+    faceset: MainCharacter_Mari
+    faceindex: 2
+    text: \marDobrze...\! Gdybym miała zgadywać...\!<br>Powiedziałabym, że pod nami!
+
+message_86:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 1
+    text: \aubTak...\! pod ziemią?
+
+message_87:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \marTak!\! Prawdopodobnie gdzieś tutaj!
+
+#=====================================================================
+
+#Sweetheart's Castle:
+
+message_88:
+    faceset: MainCharacter_Mari
+    faceindex: 2
+    text: \marHERO! Mam dla ciebie pytanie...
+
+message_89:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \marByła jakaś szansa, że powiedziałbyś “tak” do ożenienia się z SWEETHEART?
+
+message_90:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \her\com[2]Co!? Nie ma szans!
+
+message_91:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 49
+    text: \herWiesz, że tylko mam na ciebie oczy, MARI...
+
+message_92:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 31
+    text: \kel\sinv[1]Fuuuuujjjjjj...
+
+message_93:
+    faceset: MainCharacter_Mari
+    faceindex: 2
+    text: \mar“Fuujj...” to dobra reakcja, KEL!
+
+message_94:
+    faceset: MainCharacter_Mari
+    faceindex: 5
+    text: \marHERO! Nie to w tobie lubię!
+
+message_95:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \herCo? Nie to?\! To co?
+
+message_96:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \marNie mogę ci powiedzieć, głuptasie!\! Zepsułoby to magię!
+
+message_97:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 40
+    text: \herOkej...\! Niezbyt rozumiem...\! ale skoro tak mówisz...
+
+message_98:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 9
+    text: \aubMARI, w ogóle nie musisz martwić się o SWEETHEART!
+
+message_99:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aubSWEETHEART jest najgorsza!\! Nie wyobrażam sobie, że ktoś jest w niej zakochany!
+
+message_100:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 28
+    text: \kelOna czasami nie była z KPT. KOSMICZNYM CHŁOPAKIEM?
+
+message_101:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 9
+    text: \aubHmph!\! Takie związki są po prostu płytkie!
+
+message_102:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 2
+    text: \aubNie da się tego porównać do szczerości... jak ja i OMORI!\! Co nie, OMORI?
+
+message_103:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 3
+    text: \aubOMORI?
+#OOF
+#=====================================================================
+
+#Deep Well:
+
+#=====================================================================
+#**Last Resort Entrance - Available after getting whole party.**
+
+message_104:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 39
+    text: \herWięc MARI...\! Co robisz jak na nas czekasz?
+
+message_105:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \marOh...\! Nic niezwykłego.\! Mówię “cześć” i próbuję zagadać z przechodzącymi osobami...
+
+message_106:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 31
+    text: \kelTo brzmi wyczerpująco... W ogóle nie umiem zagadywać!
+
+message_107:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 3
+    text: \aubMARI, powiedz nam! Jaka była najciekawsza osoba, jaką spotkałaś?
+
+message_108:
+    faceset: MainCharacter_Mari
+    faceindex: 1
+    text: \marDobrze, zobaczmy...\! W tej okolicy zazwyczaj widzę zmęczonych turystów i GATOR GUYS.
+
+
+message_109:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \marGATOR GUYS są trochę szorstcy...\! ale jak się otworzą, to powiedzą ci prawie wszystko!
+
+message_110:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \marSą nawet milsi niż większość turystów!
+
+message_111:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 2
+    text: \aubTak! Zgadzam się!\! Wszyscy GATOR GUYS, których spotkałam byli dla mnie bardzo mili!
+
+message_112:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 27
+    text: \kelSą!?\! Mnie zawsze traktują jakbym był w kłopotach czy coś...
+
+message_113:
+    faceset: MainCharacter_Mari
+    faceindex: 2
+    text: \marZobaczmy... Co jeszcze...
+
+message_114:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \marAh! Teraz jak myślę, pamiętam chronicznie nieszczęśliwego gościa o imieniu SNALEY...
+
+message_115:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \marCzęsto widziałam, jak wędrował...
+
+message_116:
+    faceset: MainCharacter_Mari
+    faceindex: 4
+    text: \marAle pewnego razu, gdy podszedł by się przywitać...\! nagle wpadł do dziury.\! Już go po tym nie spotkałam...
+
+message_117:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kel\com[2]\sinv[1]Nudne!\sinv[0] Następne!
+
+#------------------------------------------------------------------------------------------------------------------------
+
+#End of the Highway -
+
+message_118:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 39
+    text: \herNie mogę uwierzyć, że doszliśmy do końca autostrady.
+
+
+message_119:
+    faceset: MainCharacter_Mari
+    faceindex: 3
+    text: \marAle to zrobiliście... i powinniście być dumni!
+
+
+message_120:
+    faceset: MainCharacter_Mari
+    faceindex: 1
+    text: \marMost na górze klifu prowadzi do miejsca zwanego \c[11]GŁĘBSZĄ STUDNIĄ\c[0]...
+
+message_121:
+    faceset: MainCharacter_Mari
+    faceindex: 2
+    text: \marMówią, że \c[11]GŁĘBSZA STUDNIA\c[0] była tam od dawna, ale most jest od niedawna.
+
+message_122:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \marKto wie co jest po drugiej stronie?
+
+message_123:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 4
+    text: \aubMyślisz, że tam jest BASIL?
+
+message_124:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 43
+    text: \herTego nie wiemy...\! ale jest tylko jeden sposób, żeby się dowiedzieć!
+
+#------------------------------------------------------------------------------------------------------------------------
+
+#Humphrey:
+
+message_125:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 29
+    text: \kelKurde, co się tutaj stało? To miejsce to ogromny bałagan...
+
+message_126:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 7
+    text: \aub\com[2]\sinv[1]A-psik!\sinv[0]\| Meble są bardzo zakurzone...\!<br>Pewnie jest tak od dawna.
+
+message_127:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelLooks like it used to be an office or something.\! Wasn't this supposed to be a lair full of sea witches?\! None of this stuff looks witchy at all.
+
+message_128:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \herI mean we are basing this off SWEETHEART's sources...\!<br>I don't know if I would trust SWEETHEART...\! Much less her sources...
+
+message_129:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 30
+    text: \kelWe gotta stop SWEETHEART!\! She's definitely up to no good.
+
+message_130:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \herW-We do?\! I mean...\! We can always mind our own business...
+
+message_131:
+    faceset: MainCharacter_Mari
+    faceindex: 3
+    text: \marOh... Is that what we're doing now?\!<br>Protecting the world from evil?\! How fun!
+
+message_132:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \herWhat does protecting the world from evil have to do with SWEETHEART?
+
+message_133:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aub\com[2]Have you met her!?\! She \quake[1]is\quake[0] evil!
+
+message_134:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 40
+    text: \herFair point...
+
+message_135:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 42
+    text: \herWell...\! I guess someone's gotta do it...
+
+#------------------------------------------------------------------------------------------------------------------------
+
+#Medusa Maze 1 -
+
+message_136:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelMARI, this gelatin is delicious!\! What's it made out of?
+
+message_137:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \marI'm not sure, KEL! I've just been scooping it off the walls and floor.\! Do you like it?
+
+message_138:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \herYou...\! \com[2]what!?
+
+message_139:
+    faceset: MainCharacter_Mari
+    faceindex: 3
+    text: \marHehe...\! just kidding.
+
+message_140:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \marI made it by mixing fruit!\! And umm...\! gelatin!
+
+message_141:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 28
+    text: \kelOkay, yeah...\! but...\! what's gelatin made out of?
+
+message_142:
+    faceset: MainCharacter_Mari
+    faceindex: 3
+    text: \marWell, KEL...\! Gelatin...\! Gelatin is made out of gelatin!
+
+message_143:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 28
+    text: \kelI see...
+
+message_144:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelWell, whatever!\! Food is food, I guess!
+
+message_145:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 27
+    text: \kel...\! Hmm...
+
+#------------------------------------------------------------------------------------------------------------------------
+
+#Molly Main Room -
+
+message_146:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 9
+    text: \aubYou guys... We can't relax right now!
+
+message_147:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aub\com[2]We have a puzzle to solve!\!<br>Aren't you guys afraid the bomb is going to explode!?
+
+message_148:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kel\sinv[1]Just relax... AUBREY, we got this!\sinv[0]
+
+message_149:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelThis room's full of the smartest people I know!
+
+message_150:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11
+    text: \aubThat...\! doesn't make me feel better at all...
+
+message_151:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelThe lady on the screen said she set it up for her sister, right?\! She wouldn't really let it explode on her sister!
+
+message_152:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 40
+    text: \herI don't know, KEL...\! AUBREY's right.\! We're in unfamiliar territory.\! It's probably better to play it safe.
+
+message_153:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 39
+    text: \herWhat do you think we should do, MARI?
+
+message_154:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \marH-Huh?\! Oh...\! I think...\! you should do what your heart tells you!
+
+message_155:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \herThanks...\! MARI...\! I can always count on you.
+
+message_216:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \marYou're welcome!
+
+
+#=====================================================================
+
+#Epilogue Picnics:
+
+#=====================================================================
+#Some picnics will have new text after getting Basil back in Epilogue.
+
+#------------------------------------------------------------------------------------------------------------------------
+
+#Frozen Forest VII -
+
+message_156:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 3
+    text: \aubWow...\! Isn't the snowfall pretty?
+
+message_157:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 26
+    text: \kelI mean... I guess it's pretty...\! Snow is fine once in a while, but I'd never live anywhere that snows all the time!
+
+message_158:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 27
+    text: \kelThink of all the shoveling...
+
+message_159:
+    faceset: MainCharacter_Basil
+    faceindex: 4
+    text: \bas...
+
+message_160:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 4
+    text: \aubHej...\! BASIL, are you okay?
+
+message_161:
+    faceset: MainCharacter_Basil
+    faceindex: 2
+    text: \basH-Huh?\! Oh...\! It's nothing!
+
+message_162:
+    faceset: MainCharacter_Basil
+    faceindex: 0
+    text: \basSorry... It's kind of silly.
+
+message_163:
+    faceset: MainCharacter_Basil
+    faceindex: 4
+    text: \basI don't know why...\! but snow makes me really sad.
+
+message_164:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \marAwwww... Don't be sad, BASIL!\! We're all here for you!
+
+message_165:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 39
+    text: \herTak, I mean...\! It's okay to be sad sometimes...\! but you can always confide in us!
+
+message_166:
+    faceset: MainCharacter_Basil
+    faceindex: 2
+    text: \basHehe...\! Thanks, everyone.
+
+message_167:
+    faceset: MainCharacter_Basil
+    faceindex: 1
+    text: \basDon't worry...\! I know I can always tell you guys anything.
+
+#------------------------------------------------------------------------------------------------------------------------
+
+#Frozen Forest IX -
+
+message_168:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \mar\sinv[1]Hooray!\sinv[0] You've almost made it to the top!\! How are you all feeling?
+
+message_169:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 48
+    text: \her\quake[1]No...\| worries... \|MARI...\quake[0]
+
+message_170:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 7
+    text: \aub\quake[1]Tak...\| We're...\| just...\| fine...
+
+message_171:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 31
+    text: \kel\quake[1]\com[2]Ahhh!\! My ears are popping again!
+
+message_172:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 48
+    text: \her\quake[1]KEL, I t-told you already...\! It's the elevation...
+
+message_173:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 7
+    text: \aub\quake[1]Y-Tak, stop complaining, KEL!\! We're all feeling it too!
+
+message_174:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 31
+    text: \kel\quake[1]I... I'm not complaining.\! I kinda like it!\! It r-reminds me of when you finally get the water out of your ear after swimming!
+
+message_175:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 48
+    text: \her\quake[1]...\| \sinv[1]Ah...\| Swimming...\| Sun... \|Heat...
+
+message_176:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 7
+    text: \aub\quake[1]H-Hej, guys...\! L-Let's go somewhere warmer next time.
+
+
+#------------------------------------------------------------------------------------------------------------------------
+
+#Forest Playground -
+
+message_178:
+    faceset: MainCharacter_Mari
+    faceindex: 3
+    text: \marIt's so nice to all sit and relax together like this!
+
+message_179:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelMARI!\! BASIL!\! Why don't you ever tag along with us?
+
+message_180:
+    faceset: MainCharacter_Mari
+    faceindex: 2
+    text: \marOh, you know I'd love to...\! but I have to take it easy.\! I have a bad knee, remember?
+
+message_181:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 20
+    text: \kelOh yeah...\! Do you think it'll ever heal, MARI?
+
+message_182:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \marNo I'm afraid not...\! But that's okay! I can still help you by setting up picnics!
+
+message_183:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \marDon't you worry about me... I'll always do what I can!
+
+message_184:
+    faceset: MainCharacter_Mari
+    faceindex: 3
+    text: \marAnd it's not at all bad anyway, since BASIL is always here to keep me company.
+
+message_185:
+    faceset: MainCharacter_Basil
+    faceindex: 1
+    text: \basTak, MARI and I have the best talks.
+
+message_186:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 3
+    text: \aubYou do?\! What do you guys talk about?
+
+message_187:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \marEverything, really!\! Sometimes, we even talk about you guys!
+
+message_188:
+    faceset: MainCharacter_Basil
+    faceindex: 1
+    text: \bas\sinv[1]Tak!\! We talk about how cool and composed OMORI is all the time...\! Or about how AUBREY is so caring about everything...
+
+
+message_189:
+    faceset: MainCharacter_Mari
+    faceindex: 3
+    text: \sinv[1]\marOr about how nice it would be to be as carefree as KEL...\! Or about how the time HERO fell asleep and a bird thought his hair was a nest...
+
+message_190:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \her\com[2]W-Wait... What was that last part again?
+
+message_191:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \mar\sinv[1]Oh, nothing!\sinv[0]
+
+#------------------------------------------------------------------------------------------------------------------------
+
+#Pyrefly Forest -
+
+message_192:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 48
+    text: \her\sinv[1]Huff...\| Breathe in...\| Huff...\| Breathe out...
+
+message_193:
+    faceset: MainCharacter_Basil
+    faceindex: 3
+    text: \basOh no...\! HERO, you really don't like spiders, huh?
+
+message_194:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelNope...\! If there's one thing my brother can't stand...\com[2]<br>it's spiders!
+
+message_195:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kelWhy don't you talk some sense into him, BASIL?
+
+message_196:
+    faceset: MainCharacter_Basil
+    faceindex: 4
+    text: \basAhhh... Okay, I'll try!
+
+message_197:
+    faceset: MainCharacter_Basil
+    faceindex: 0
+    text: \basWell...\! I think spiders are really misunderstood...\! They might look kind of scary, but they never attack humans unless they feel threatened.
+
+message_198:
+    faceset: MainCharacter_Basil
+    faceindex: 1
+    text: \basNot to mention they're also one of my biggest helpers when I'm gardening...\! since they eat a lot of the pests that can hurt my plants.\! It's all about the balance of nature!
+
+message_217:
+    faceset: MainCharacter_Basil
+    faceindex: 6
+    text: \basOr...\! S-Something like that...
+
+message_199:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 1
+    text: \aubDo you feel better now, HERO?
+
+message_200:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 28
+    text: \kelDarn...\! I guess that didn't work...
+
+message_201:
+    faceset: MainCharacter_Mari
+    faceindex: 4
+    text: \marAwww...\! It's okay, HERO...\! We can take it one step at a time...
+
+message_202:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 48
+    text: \her\sinv[1]Huff...\| Breathe in... \|Huff... \|Breathe out...
+
+message_203:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \mar...\! Or you know...\! Crawling is okay too!
+
+#------------------------------------------------------------------------------------------------------------------------
+
+#**Construction - Only available after completing all Statues. Gator Guy joins too.**
+
+message_204:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelCheck out these statues! We all look so amazing!
+
+message_205:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 38
+    text: \herThese statues look just like us!\! You're great at what you do, PANIE. GATOR GUY!
+
+message_206:
+    text: \n<GATOR GUY>Heh, heh... You really think so, boss?\!<br>I've always been the artsy one in the family.<br><br>All my brothers always come to me to get their pictures taken and stuff...\! It's more of a hassle than anything...
+
+message_207:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelPictures, huh?\! You know...\! my friend BASIL here is really good with a camera!\! I bet he could teach you some tricks!
+
+message_208:
+    text: \n<GATOR GUY>Tak? You think he could do that?
+
+message_209:
+    faceset: MainCharacter_Basil
+    faceindex: 3
+    text: \bas\com[2]\}Agh...\! Why KEL...
+
+message_210:
+    faceset: MainCharacter_Basil
+    faceindex: 1
+    text: \basS-Sorry...\! I'm not all that good...\! Or even trying to be really!\!<br>I just take photos for fun!
+
+message_211:
+    text: \n<GATOR GUY>Ehhh? What's your deal?\! You're way too humble, kid!\!<br>How are you gonna sell yourself like that!?
+
+message_212:
+    faceset: MainCharacter_Basil
+    faceindex: 6
+    text: \basB-But...\! I'm not trying to sell myself...
+
+message_213:
+    text: \n<GATOR GUY>\com[2]What? You're not!?
+
+message_214:
+    text: \n<GATOR GUY>Heh...\! I guess there are those types, huh...
+
+message_215:
+    text: \n<GATOR GUY>Well, whatever floats your boat, flower boy.\! You do you!
+
+#------------------------------------------------------------------------------------------------------------------------
+
+#**Construction - Only available after completing all Statues. Gator Guy joins too.**
+
+message_220:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 7
+    text: \aubUgh...\! This place is so gross and stinky!\! My nose can't take it anymore...
+
+message_221:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelWhat's the rush, AUBREY?\! There's so much treasure around!
+
+message_222:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelI'm gonna swipe as many \c[5]CANS\c[0] as I can find!
+
+message_223:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 38
+    text: \herOh! And then afterwards, we should recycle them at a RECYCLING MACHINE!\! I'm sure we passed by one on the way to CAPT. SPACE- I mean, SPACE BOYFRIEND's place!
+
+message_224:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 7
+    text: \aubUrf...\! Forget \c[5]CANS\c[0]...\! We gotta find that \c[4]SPECIAL MIXTAPE\c[0] and get out of here.
+
+message_225:
+    faceset: MainCharacter_Mari
+    faceindex: 4
+    text: \marAwww... Hang in there, AUBREY.\! You'll get past this.
+
+message_226:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \marIf anything...\! just think about all the good recycling will do for the environment!
+
+message_227:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kel\com[2]Tak c'mon, AUBREY! Do it for the environment!

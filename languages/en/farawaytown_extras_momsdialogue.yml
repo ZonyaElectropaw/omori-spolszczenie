@@ -1,0 +1,150 @@
+# =========================================================================================
+# Mom's Dialogue
+# =========================================================================================
+
+#Mom's MAMA'S VOICEMAIL
+
+                  #Examine phone
+message_0:
+      text: \"Hej \n[8], to MAMA.\! Nadal jestem w mieście, przygotowując rzeczy do naszego nowego domu.\! Skończyłeś już się pakować?\"\n<POCZTA GŁOSOWA MAMY>
+
+message_1:
+      text: \"Przewoźnicy będą w naszym domu za parę dni, więc zostawiłam listę rzeczy, które musisz zrobić, zanim przyjadą.\"\n<POCZTA GŁOSOWA MAMY>
+
+message_2:
+      text: \"I przepraszam!\! MAMA schrzaniła!\"\n<POCZTA GŁOSOWA MAMY>
+
+message_3:
+      text: \"Zapomniałam powiedzieć firmie elektrycznej, że potrzebujemy paru dodatkowych dni zanim będziemy gotowi na przeprowadzkę, więc światła mogą zgasnąć wieczorem.\"\n<POCZTA GŁOSOWA MAMY>
+
+message_4:
+      text: \"W każdym razie...\! Wiem, że przeprowadzka do nowego miejsca może być trochę stresująca, ale myślę, że zmiana scenerii będze dobra dla nas obojga!\"\n<POCZTA GŁOSOWA MAMY>
+
+message_5:
+      text: \"Wiem, że z nikim od dawna nie rozmawiałeś, ale może pożegnasz się z starymi przyjaciółmi zanim pojedziemy.\"\n<POCZTA GŁOSOWA MAMY>
+
+message_6:
+      text: \"KEL bardzo się stara skontaktować się z tobą od kiedy daliśmy dom na sprzedarz.\! Dzwoni do nas co tydzień od ostatnich paru miesięcy!\"\n<POCZTA GŁOSOWA MAMY>
+
+message_7:
+      text: \"Chyba jest trochę samotny...\! Może powinieneś go odwiedzić.\!<br>Dobrze, to na razie wszystko!\! MAMA cię kocha!\! Cześć, synku!\"\! \quake[1]\}Bzzt...\quake[0]\n<POCZTA GŁOSOWA MAMY>
+
+#SFX: Stomach Gurgle
+message_8:
+      text: Jesteś głodny.
+
+message_9:
+      text: Nagle czujesz się bardzo PRZESTRASZONY.
+
+#Examine Fridge
+
+message_10:
+      text: Patrzysz do lodówki...\! i znajdujesz \c[4]ZIMNEGO STEKA\c[0].\! Wziąć go?
+
+#[Yes/No]
+#[Yes]
+message_11:
+      text: Dostałeś \c[4]ZIMNEGO STEKA\c[0].\!<br>Powinieneś go podgrzać, zanim go zjesz.
+#[No]
+#[Exit dialogue]
+
+
+                #Examine Microwave
+message_12:
+      text: Włożyłeś \c[4]ZIMNEGO STEKA\c[0] do mikrofalówki.
+
+                #Examine Steak Knife
+message_13:
+      text: Podniosłeś \c[13]NÓŻ DO STEKÓW\c[0].
+
+# Auto-equip steak KNIFE
+
+message_14:
+      text: \c[4]STEK Z MIKROFALÓWKI\c[0] jest gotowy.
+
+                # Examine BED
+
+message_15:
+      text: Bardzo, bardzo wygodne łóżko.\!<br>Chcesz iść spać?
+
+
+# =========================================================================================
+# MAMA'S STICKY NOTEs
+# =========================================================================================
+
+#EXAMINE note
+
+message_20:
+      text: Na lustrze jest karteczka.
+
+message_21:
+      text: Na ścianie jest karteczka.
+
+#First line always
+
+message_22:
+      text: \"Cześć, \n[8]! To notatka od MAMY.\"\n<KARTECZKA MAMY>
+
+#Bathroom mirror
+
+message_23:
+      text: \"Pamiętaj codziennie myć zęby!\"\n<KARTECZKA MAMY>
+
+#Living Room
+
+message_24:
+      text: \"Jeśli wyjdziesz z domu, pamiętaj patrzeć w obie strony przed przechodzeniem przez ulicę!\"\n<KARTECZKA MAMY>
+
+#Bedroom
+
+message_25:
+      text: \"Zostawiłam ci trochę jedzenia w lodówce na dole.<br>To \c[4]STEK\c[0]... twój ulubiony!\"\n<KARTECZKA MAMY>
+
+#last Line always
+
+message_29:
+      text: \"Kocham cię, XOXO.\"\n<KARTECZKA MAMY>
+
+
+#Day 1:
+
+message_50:
+      text: \"Hej \n[8], to MAMA.\!<br>Jak się masz?\! Dobrze jesz?\"\n<POCZTA GŁOSOWA MAMY>
+
+message_51:
+      text: \"Miałam nadzieję, że dzisiaj do ciebie wrócę, ale jest ostatni dzień dużej wyprzedaży mebli i nie mogę oprzeć się dobrej okazji!\"<br>\"Możesz zadbać o siebie przez parę dni, tak?\!<br>W końcu jesteś już dużym chłopcem!\"\n<POCZTA GŁOSOWA MAMY>
+
+message_52:
+      text: \"Pamiętaj zrobić swoje obowiązki zanim wrócę.\! Zostawiłam listę na stole obok twoich drzwi.\! Dobrze, na razie to wszystko!\! MAMA cię kocha!\! Cześć, synku!\"\!\quake[1] \}Bzzt...\quake[0]\n<POCZTA GŁOSOWA MAMY>
+
+#Day 2:
+
+message_55:
+      text: \"Hej \n[8], to MAMA.\! Dobrze sobie radzisz?\! Nie odbierasz moich telefonów ani nie odpowiadasz na pocztę głosową!\! Jeśli będziesz mnie ignorować, znowu zacznę się martwić!\"\n<POCZTA GŁOSOWA MAMY>
+
+message_56:
+      text: \"Mam nadzieję, że nie spieszysz się z obowiązkami...\! Myślę, że nawet mi nie udałoby się skończyć wszystkiego w jeden dzień!\"\n<POCZTA GŁOSOWA MAMY>
+
+message_57:
+      text: \"Odwiedziłeś KEL'a?\! Jeśli nie, w porządku... rozumiem.\! Po prostu rób wszystko swoim tempem...\"\n<POCZTA GŁOSOWA MAMY>
+
+message_58:
+      text: \"Przy okazji, możesz sprawdzić szafę na dole i sprawdzić, czy nie chcesz czegoś zatrzymać?\! Pewnie wyrzucimy wszystko, czego nie chcesz.\"\n<POCZTA GŁOSOWA MAMY>
+
+message_59:
+      text: \"Zostały dwa dni, zanim cię odbiorę.\!<br>Dobra, na razie wszystko!\! MAMA cię kocha!\! Cześć, synku!\"\!\quake[1] \}Bzzt...\quake[0]\n<POCZTA GŁOSOWA MAMY>
+
+#Day 3:
+
+message_60:
+      text: \"Hej \n[8], to MAMA.\! Jutro jest wielki dzień!\!<br>Przewoźnicy będą tutaj jutro rano.\! Dałam im klucze, więc nie przestrasz się jak ich zobaczysz."\n<POCZTA GŁOSOWA MAMY>
+
+message_61:
+      text: \"Pamiętaj zorganizować dzisiaj swoje rzeczy.\! Odbiorę cię moim autem z przodu.\! Po prostu wyjdź, kiedy będziesz gotowy.\"\n<POCZTA GŁOSOWA MAMY>
+
+message_62:
+      text: \"Dobrze, na razie wszystko!\! MAMA cię kocha!\! Cześć, synku!\"\!\quake[1] \}Bzzt...\quake[0]\n<POCZTA GŁOSOWA MAMY>
+
+#Day 4:
+message_66:
+      text: \"Hej \n[8], to MAMA.\! Czekam na dworze, więc po prostu wyjdź, kiedy będziesz gotowy.\! MAMA cię kocha!\! Cześć, synku!\"\!\quake[1] \}Bzzt...\quake[0]\n<POCZTA GŁOSOWA MAMY>

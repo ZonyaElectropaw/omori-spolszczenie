@@ -1,0 +1,295 @@
+# =========================================================================================
+# ** Snaley Arc 1 - Construction
+# =========================================================================================
+
+message_0:
+    text: \n<SNALEY>Friends, it's good to see you!\! Lovely weather isn't it?
+
+message_1:
+    text: \n<SNALEY>I want to become strong, just like you!\! Will you help train me?
+
+#YES
+message_2:
+    text: \n<SNALEY>I'll do my best!
+
+#NO
+message_3:
+    text: \n<SNALEY>But I want to become strong, just like you...
+
+#let him live
+
+message_4:
+    text: \n<SNALEY>Wow, you really know your stuff!\! In return for training me, take this \c[3]COFFEE\c[0]!\! My friend gave it to me!
+
+message_5:
+    text: \n<SNALEY>I will now go into this dangerous-looking cave to train my mind and my body.\! Next time you see me, I'll be even more formidable!
+
+# =========================================================================================
+# ** Snaley Arc 1 - Cave
+# =========================================================================================
+
+
+message_6:
+    text: \n<SNALEY>Friends, it's good to see you again!\! My, lovely weather isn't it?
+
+message_7:
+    text: \n<SNALEY>I have become much stronger than the last time we met.\! Perhaps, it's time for another test.\! Don't you agree?
+
+#YES
+#message_2
+
+message_8:
+    text:
+
+message_9:
+    text: \n<SNALEY>Thanks! I feel much stronger now...\!  In return for training me, take this \c[3]COFFEE\c[0]!\! My friend gave it to me!
+
+message_10:
+    text: \n<SNALEY>I will now go across this dangerous-looking bridge to train my mind and my body.\! When you see me next, I'll be even more formidable!
+
+# =========================================================================================
+# ** Snaley Arc 1 - Bridge
+# =========================================================================================
+
+message_11:
+    text: \n<SNALEY>Friends, it's good to see you yet again!\! My, lovely weather isn't it?
+
+message_12:
+    text: \n<SNALEY>My mind and body are in perfect harmony and I have learned my ultimate skill!\! I believe that it is time for another test.\! Don't you agree?
+
+message_13:
+    text:
+
+message_14:
+    text:
+
+message_15:
+    text:
+
+# =========================================================================================
+# ** Snaley Arc 1 - Bridge
+# =========================================================================================
+
+
+message_16:
+    text: You got \c[3]COFFEE\c[0]!
+
+message_17:
+    text: >
+
+message_18:
+    text: >
+
+message_19:
+    text: >
+
+message_20:
+    text: >
+
+message_21:
+    text: >
+
+message_22:
+    text: >
+
+message_34:
+    text: >
+
+
+message_35:
+    text: >
+
+message_36:
+    text: >
+
+message_37:
+    text: >
+
+message_38:
+    text: >
+
+message_39:
+    text: >
+
+message_40:
+    text: >
+
+message_41:
+    text: >
+
+message_42:
+    text: >
+
+message_43:
+    text: >
+
+message_44:
+    text: >
+
+message_45:
+    text: >
+
+message_46:
+    text: >
+
+message_47:
+    text: >
+
+message_48:
+    text: >
+
+message_49:
+    text: >
+
+message_50:
+    text: >
+
+message_51:
+    text: >
+
+message_52:
+    text: >
+
+message_53:
+    text: >
+
+message_54:
+    text: >
+
+message_55:
+    text: >
+
+message_56:
+    text: >
+
+message_57:
+    text: >
+
+message_58:
+    text: >
+
+message_59:
+    text: >
+
+message_60:
+    text: >
+
+message_61:
+    text: >
+
+message_62:
+    text: >
+
+message_63:
+    text: >
+
+message_64:
+    text: >
+
+message_65:
+    text: >
+
+message_66:
+    text: >
+
+message_67:
+    text: >
+
+message_68:
+    text: >
+
+message_69:
+    text: >
+
+message_70:
+    text: >
+
+message_71:
+    text: >
+
+message_72:
+    text: >
+
+message_73:
+    text: >
+
+message_74:
+    text: >
+
+message_75:
+    text: >
+
+message_76:
+    text: >
+
+message_77:
+    text: >
+
+message_78:
+    text: >
+
+message_79:
+    text: >
+
+message_80:
+    text: >
+
+message_81:
+    text: >
+
+message_82:
+    text: >
+
+message_83:
+    text: >
+
+message_84:
+    text: >
+
+message_85:
+    text: >
+
+message_86:
+    text: >
+
+message_87:
+    text: >
+
+message_88:
+    text: >
+
+message_89:
+    text: >
+
+message_90:
+    text: >
+
+message_91:
+    text: >
+
+message_92:
+    text: >
+
+message_93:
+    text:
+
+message_94:
+    text:
+
+message_95:
+    text:
+
+message_96:
+    text:
+
+message_97:
+    text:
+
+message_98:
+    text:
+
+message_99:
+    text:
+
+message_100:
+    text:

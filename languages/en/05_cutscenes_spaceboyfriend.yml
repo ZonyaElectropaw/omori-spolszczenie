@@ -1,0 +1,338 @@
+# =========================================================================================
+# Cutscene: Halt, Children!
+# =========================================================================================
+
+#Trigger: Go up to Space boyfriends house
+
+message_0:
+      text: \Com[2]Stać, dzieci!\!<br>Wchodzicie teraz w okolice...\spg
+
+message_1:
+      text: Kapitana KOSMICZNYCH PIRATÓW...\!<br>Mistrza UKŁADU SŁONECZNEGO...\!<br>Księcia wszechświata...\spg
+
+message_2:
+      text: Jeden jedyny KPT. SPACEB-\! Znaczy...\! Err...\!<br>Wchodzicie do domu... \!KOSMICZNEGO...\! CHŁOPAKA.\spg
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Whoa, mieszka tu kapitan KOSMICZNYCH PIRATÓW?\!<br>\{TO NIESAMOWITE!!\}\kel
+
+message_4:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: Też chcę być KOSMICZNYM PIRATEM!\kel
+
+message_5:
+      text: Tak, cóż...\! Ja też...\! kiedyś.\spg
+
+message_6:
+      text: KOSMICZNY CHŁOPAK nie robi obecnie wiele, więc większość KOSMICZNYCH PIRATÓW miała dość i odeszła z głównym statkiem.\spg
+
+message_7:
+      text: To tylko my, przybłęda, wykonujący wszystkie obowiązki KOSMICZNEGO CHŁOPAKA i co tam.\spg
+
+message_8:
+      text: Wczoraj ja i chłopaki spędziliśmy dzień na sprzątaniu i wyrzucaniu wszystkich jego śmieci.\spg
+
+message_9:
+      text: Wzdech...\! Nie po to rzuciłem swoją starą pracę...\!<br>Nie jestem opiekunką!\spg
+
+message_10:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Awww, Przepraszam... To brzmi okropnie.\!<br>Może uda nam się przemówić mu do rozsądku.\aub
+
+message_11:
+      text: Oh, Nie zrobiłbym tego na twoim miejscu.\! KPT. KOSM-<br>Znaczy...\! Widzisz, KOSMICZNY CHŁOPAK ma dwie strony.\spg
+
+message_12:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Powinniśmy przynajmniej spróbować!\! Nigdy nie wiadomo...\!<br>Może wie coś o tym, jak znaleźć BASIL'a!\her
+
+message_13:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: A może wie, gdzie znaleźć mojego kamienia, \c[13]HECTORA\c[0]!\kel
+
+message_14:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: J-jasne, to też.\her
+
+message_15:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Na co czekamy? Chodźmy go już zobaczyć!\kel
+
+message_16:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Przepraszam za twoją pracę, panie.\aub
+
+message_17:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: Niedługo będzie lepiej, obiecuję!\aub
+
+message_18:
+      text: Wzdech...\! Dziękuję, młoda damo.\! Mam nadzieję, że tak.\spg
+
+# =========================================================================================
+# Cutscene: Blackletter here
+# =========================================================================================
+
+#message_40:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 48
+#      text: \fn<OMORI_GAME>Whoa...\! Anyone feel that?\her
+
+#message_41:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 28
+#      text: Tak...\! My head was all fuzzy for a second...<br>There must be a MISSING LETTER somewhere in here!\kel
+
+# =========================================================================================
+# Cutscene: Space boyfriend is sick
+# =========================================================================================
+
+#Trigger: Talk to Space boyfriend in bed
+
+
+message_51:
+      text: Cough...\! Cough, cough...\sbf
+
+message_52:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Uh-oh...\! KPT. KOSM-\!<br>Znaczy, KOSMICZNY CHŁOPAK nie wygląda tak dobrze.\her
+
+message_53:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: Nie martw się, zajmę się tym!\kel
+
+message_54:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \{\{HEJ, \Com[2]KOSMICZNY CHŁOPAKU!!\kel
+
+message_55:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \{\{\{OBUDŹ SIĘ!!!\kel
+
+message_56:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 43
+      text: KEL!\her
+
+message_57:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: Co?\kel
+
+message_58:
+      text: \}\quake[1]Cough...\! Ughhh...\! Cough, cough...\! Wzdech...\!<br>Moja... Droga...\! SWEETHEART...\sbf\quake[0]
+
+message_59:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Aww... Brzmi bardzo smutno.\!<br>Musi być jakiś sposób, aby mu pomóc.\aub
+
+message_60:
+      text: \}\quake[1]Cough, cough...\! Cough...\! Oh, moja SWEETHEART...\!<br>Dokąd teraz uciekłaś?\sbf\quake[0]
+
+#SPACE PIRATE GUY walks in and walks to SPACE BOYFRIEND.
+
+message_61:
+      text: Oh nie... Nie znowu...\!<br>KOSMICZNY CHŁOPAK jest taki smutny.\spg
+
+message_62:
+      text: Masz, mój ziomie. To cię rozweseli.\spg
+
+#SPACE PIRATE GUY walks to the CASSETTE PLAYER.
+#SPACE PIRATE GUY is surprised and confused.
+
+message_63:
+      text: Co?\! Dlaczego nic nie gra?\spg
+
+#SPACE PIRATE GUY starts sweating.
+
+message_64:
+      text: Oh nie...\! Boombox...\! Jest pusty!\!<br>Teraz się nigdy nie obudzi!\! Albo jeszcze gorzej...\! <br>Obudzi się... zły.\spg
+
+message_65:
+      text: Oh, chłopie... Oh, chłopie...\!<br>Gdzie może być \c[4]SPECJALNY MIXTAPE\c[0]?\spg
+
+#SPACE PIRATE guy has an idea.
+
+message_66:
+      text: Ktoś musiał wyrzucić jego \c[4]SPECJALNY MIXTAPE\c[0] kiedy sprzątaliśmy!\spg
+
+message_67:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: O co tyle szumu? To tylko kaseta, prawda?\kel
+
+message_68:
+      text: Cóż, widzisz...\! Ilekroć KOSMICZNY CHŁOPAK jest z dala od SWEETHEART, robi się naprawdę smutny i cały dzień leży w łóżku.\spg
+
+message_69:
+      text: Jedynym sposobem, aby go z tego wyrwać, jest zagranie jego \c[4]SPECJALNEGO MIXTAPE'A\c[0].\! Jest tylko jeden taki we wszechświecie.\spg
+
+message_70:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Oh, Widzę...\! KOSMICZNY CHŁOPAK nie jest chory...\!<br>Jest... chory z miłości...\aub
+
+message_71:
+      text: Wzdech...\! Jeśli KOSMICZNY CHŁOPAK pozostanie taki, niegdyś wielka koalicja KOSMICZNYCH PIRATÓW przepadnie na wieczność...\spg
+
+message_72:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: Oh...\! chłopie...\! To jest do bani.\kel
+
+message_73:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: Więc... chodźmy!!\kel
+
+#KEL attempts to leave.
+
+message_74:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Czekaj! Gdzie idziesz? Powinniśmy mu pomóc!\!<br>Powinieneś wiedzieć, że utrata czegoś ważnego dla Ciebie jest naprawdę do niczego.\aub
+
+message_75:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: Nie waż się wciągać w to \c[13]HECTORA\c[0]!\kel
+
+message_76:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Mówię o tym, kiedy ukradłeś moją \c[13]WYPCHANA ZABAWKĘ!\c[0]\aub
+
+message_77:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: Co?\! Nic takiego nie pamiętam.\kel
+
+message_78:
+      text: Niedaleko stąd jest \c[11]WYSYPISKO\c[0], ale to miejsce jest ogromne!\! Ciężko będzie tam cokolwiek znaleźć.\spg
+
+message_79:
+      text: \Com[2]Cough, cough!\sbf
+
+#Everyone turns to the bed
+
+message_80:
+      text: \quake[1]\}Oh... SWEETHEART...\! Moja idealna bogini...\sbf\quake[0]
+
+message_81:
+      text: \quake[1]\}Cough...\! Moja słodka...\! wypełniona galaretką... pączunia...\sbf\quake[0]
+
+#AUBREY looks at Space Boyfriend.
+
+message_82:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5
+      text: Myślę, że się pogarsza...\aub
+
+#HERO looks at Aubrey.
+
+message_83:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Co powinniśmy zrobić, OMORI? Powinniśmy mu pomóc?\aub
+
+#[Nod (Yes) / Shake (No)]
+
+message_84:
+      text: Dzięki, moi ludzie... Naprawdę to doceniam.\!<br>Proszę, weźcie to.\spg
+
+message_85:
+      text: Dostałeś \c[4]KLUCZ NA WYSYPISKO\c[0].
+
+message_86:
+      text: Ten klucz odblokowuje \c[11]WYSYPISKO\c[0].<br>\!\c[4]SPECJALNY MIXTAPE\c[0] powinien gdzieś tam być.\spg
+
+message_87:
+      text: Możecie się tam dostać przez to tajne wejście na podwórko KOSMICZNEGO CHŁOPAKA.\! Całkiem wygodne, co?\spg
+
+message_88:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubOh, proszę \n[1]! Myślę, że naprawdę potrzebuje naszej pomocy. \!Gdybyś był chory w łóżku, chciałbyś, żeby ktoś ci pomógł, prawda?
+
+message_89:
+      text: Mam nadzieję, że KAPITAN niedługo poczuje się lepiej...\spg
+
+
+# =========================================================================================
+# Cutscene: Missing Pluto
+# =========================================================================================
+
+
+message_110:
+      text: Wzdech...\! Teraz to naprawdę odwaliliśmy, stary...\spd
+
+message_111:
+      text: Mam nadzieję, że KAPITAN nie będzie zbyt zły, gdy powiemy mu, że zaginęła jego ulubiona planeta.\! Wiesz jaki on jest kiedy się wkurza.\spd
+
+message_112:
+      text: Kumplu, nie masz już nazywać go KAPITANEM.\!<br>Masz go nazywać KOSMICZNY CHŁOPAK, pamiętasz?\spb
+
+message_113:
+      text: Oh tak, to prawda...\spd
+
+message_114:
+      text: Urg... \!\{\quake[1]AAAA\{ARRRRR\{RRRRG!!!\spd\}
+
+message_115:
+      text: Wiesz, stary...\! Czasami zastanawiam się, czy w ogóle jesteśmy KOSMICZNYMI PIRATAMI.\spd
+
+message_116:
+      text: Od kiedy przyszła ta SWEETHEART, nie zrobiliśmy nic fajnego!\! Powinniśmy odejść i znaleźć prawdziwą pracę.\spd
+
+message_117:
+      text: Nie gadaj głupot, kolego!\!<br>Czym jest dla nas życie, jeśli nie życiem KOSMICZNEGO PIRATA?\spb
+
+message_118:
+      text: Jestem pewien, że KAPITAN pewnego dnia opamięta się i wszyscy znowu będziemy latać.\! Po prostu musimy w niego uwierzyć!\spb
+
+message_119:
+      text: Wzdech...\! Dzięki, stary.\! Zawsze tu jesteś, kiedy cię potrzebuję.\spd
+
+# =========================================================================================
+# Cutscene: Pluto Behind a Tree
+# =========================================================================================
+
+#BEFORE BATTLE
+
+message_130:
+    text: Ten gościu wygląda dość strasznie...\!<br>Chcesz go zaczepić?
+
+#BEFORE BATTLE
+
+message_131:
+    text: \kto...\! Hm.\! Nieźle.
+
+# =========================================================================================
+# Misc
+# =========================================================================================
+
+message_150:
+      text: \quake[1]\}Cough...\! cough...\sbf\quake[0]
+
+message_160:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Czekaj, OMORI!\! Najpierw powinniśmy sprawdzić KPT. KOSM-\!<br>Znaczy, KOSMICZNEGO CHŁOPAKA.\aub
+
+message_161:
+      text: Użyłeś \c[4]KLUCZA DO WYSYPISKA\c[0].
