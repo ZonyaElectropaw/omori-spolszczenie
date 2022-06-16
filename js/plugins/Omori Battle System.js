@@ -2587,7 +2587,7 @@ Window_OmoriBattleActorStatus.prototype.update = function() {
 Window_OmoriBattleActorStatus.prototype.updatePositions = function() {
 
 
-  this._statusBackSprite.x = this.x + 12;
+  this._statusBackSprite.x = this.x + 13;
   this._statusBackSprite.y = this.y + 17;
 
   this._faceSprite.x = this.x + (this.width - 101) / 2;
@@ -2596,16 +2596,16 @@ Window_OmoriBattleActorStatus.prototype.updatePositions = function() {
   this._polaroidSprite.x = this.x;
   this._polaroidSprite.y = this.y;
 
-  this._hpBarSprite.x = this.x + 33;
+  this._hpBarSprite.x = this.x + 34;
   this._hpBarSprite.y = this.y + 127;
 
-  this._mpBarSprite.x = this.x + 33
+  this._mpBarSprite.x = this.x + 34;
   this._mpBarSprite.y = this.y + 146;
 
-  this._stateSprite.x = this.x + this.width / 2 + 5;
+  this._stateSprite.x = this.x + this.width / 2 + 6;
   this._stateSprite.y = this.y + 14;
 
-  this._selectedOverlay.x = this.x + -7
+  this._selectedOverlay.x = this.x + -6
   this._selectedOverlay.y = this.y + -3
 
   this._windowContentsSprite.x = this.x;
