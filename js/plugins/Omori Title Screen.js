@@ -74,7 +74,7 @@ Scene_OmoriTitleScreen.prototype.initialize = function() {
   // Determine if can continue
   this._canContinue = false;
   // Check if Save files exist
-  for (var i = 1; i < 7; i++) {
+  for (var i = 1; i < 4; i++) {
     if (StorageManager.exists(i)) { this._canContinue = true; break; }
   };
   this._instantIntro = true;
@@ -111,6 +111,7 @@ Scene_OmoriTitleScreen.prototype.initAtlastLists = function() {
 Scene_OmoriTitleScreen.prototype.create = function() {
   // Super Call
   Scene_BaseEX.prototype.create.call(this);
+
 
   this.createFilters();
   // Create Background
@@ -191,7 +192,7 @@ Scene_OmoriTitleScreen.prototype.playBgs = function() {
 // 12/27 COMMAND HINTS
 
 Scene_OmoriTitleScreen.prototype.createCommandHints = function() {
-  this._commandHints = new Sprite(new Bitmap(Math.ceil(Graphics.boxWidth / 2.6), Math.ceil(Graphics.boxHeight / 8)))
+  this._commandHints = new Sprite(new Bitmap(Math.ceil(Graphics.boxWidth / 2.8), Math.ceil(Graphics.boxHeight / 8)))
   this.addChild(this._commandHints);
   this._commandHints.position.set(Graphics.boxWidth - this._commandHints.width,0);
   this.refreshCommandHints();
@@ -202,13 +203,12 @@ Scene_OmoriTitleScreen.prototype.refreshCommandHints = function() {
   this._commandHints.bitmap.clear();
   let confirm = LanguageManager.languageData().text.System.plugins.optionsMenu.buttonHints["confirm"]
   let cancel = LanguageManager.languageData().text.System.plugins.optionsMenu.buttonHints["cancel"]
-  let iconSize = 24;
-  let paddingY = 8;
-  let myvalue = 0;
-  this._commandHints.bitmap.drawInputIcon("ok", 0, paddingY);
-  this._commandHints.bitmap.drawText(confirm, iconSize + 5, paddingY, this._commandHints.bitmap.width, 16, "left");
-  this._commandHints.bitmap.drawInputIcon("escape", iconSize + 15 + this._commandHints.bitmap.measureTextWidth(confirm) + myvalue, paddingY);
-  this._commandHints.bitmap.drawText(cancel, iconSize*2 + 20 + this._commandHints.bitmap.measureTextWidth(confirm) + myvalue, paddingY, this._commandHints.bitmap.width, 16, "left");
+  let iconSize = 16;
+  let paddingY = 4;
+   this._commandHints.bitmap.drawInputIcon("ok", 45, paddingY);
+  this._commandHints.bitmap.drawText(confirm, iconSize + 55, paddingY, this._commandHints.bitmap.width, 16, "left");
+  this._commandHints.bitmap.drawInputIcon("escape", 45, 36);
+  this._commandHints.bitmap.drawText(cancel, iconSize + 55, 36, this._commandHints.bitmap.width, 16, "left");
 }
 
 const _old_omo_menu_options_controls = Window_OmoMenuOptionsControls.prototype.createKeyPromptWindow
@@ -381,9 +381,9 @@ Scene_OmoriTitleScreen.prototype.createTitleCommands = function() {
   // Initialize Title Comands
   this._titleCommands = [];
   // Text Array
-  var textList = ['NOWA GRA', 'KONTYNUUJ', 'OPCJE']
+  var textList = LanguageManager.getMessageData("XX_BLUE.Omori_Title_Screen").commands
   // Get Center X Position
-  var centerX = Math.floor((Graphics.width - (156 * textList.length)) / 1.88)
+  var centerX = Math.floor((Graphics.width - (156 * textList.length)) / 1.8)
   // Go Through Text Array
   for (var i = 0; i < textList.length; i++) {
     // Get Text
