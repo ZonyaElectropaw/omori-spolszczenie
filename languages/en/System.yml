@@ -558,39 +558,39 @@ plugins:
 
   optionsMenu:
     alertMessages:
-      restoreGeneral: Default configuration has been restored. Do you want to recover global.rpgsave?
+      restoreGeneral: Domyślna konfiguracja została przywrócona. Czy chcesz odzyskać global.rpgsave?
     buttonHints:
       confirm: POTWIERDŹ
       cancel: ANULUJ
     inputWarning:
-      keyboardMessage: "You can't edit KLAWIATURA inputs using your KONTROLER!"
-      gamepadMessage: "You can't edit KONTROLER inputs using your KLAWIATURA!"
-      gamepadNotDetected: "No compatible KONTROLERs detected."
+      keyboardMessage: "Nie możesz edytować wejść KEYBOARD używając KONTROLERA!"
+      gamepadMessage: "Nie możesz edytować wejść KONTROLERA używając KLAWIATURY!"
+      gamepadNotDetected: "Nie wykryto zgodnego KONTROLERA."
     general:
       screenResolution:
-        text: ROZDZIELCZOŚĆ EKRANU
+        text: ROZMIAR OKNA
         options: ['X1', 'X2']
-        help: Zmień rozdzielczość ekranu.
+        help: Zmień rozdzielczość okna gry.
         spacing: 80
 
       fullScreen:
-        text: PEŁNY EKRAN
-        options: ['ON', 'OFF']
-        help: Zmień grę w tryb pełnoekranowy.
+        text: PEŁEN EKRAN
+        options: ['WŁ', 'WYŁ']
+        help: Wyświetl grę na całym ekranie.
         boolIndex: true
         spacing: 80
 
       gamepadTips:
-        text: TYP WEJŚCIA
+        text: TRYB STEROWANIA
         options: ['KLAWIATURA', 'KONTROLER']
-        help: Pokazuj przyciski klawiatury lub kontrolera.
+        help: Wyświetlaj ikony klawiszy lub kontrolera.
         boolIndex: false
         spacing: 150
 
       textSkip:
-        text: POMIJANIE TEKSTU
+        text: POMIJAJ TEKST
         options: ["WŁ", "WYŁ"]
-        help: Przewiń tekst naciskając POTWIERDŹ lub ANULUJ.
+        help: Przyspiesz tekst naciskając lub trzymając POTWIERDŹ albo ANULUJ.
         boolIndex: true
         spacing: 80
 
@@ -608,41 +608,41 @@ plugins:
   #      spacing: 130
 
       battleLogSpeed:
-        text: TEKST WALKI
+        text: TEKST BITWY
         options: ['SZYBKI', 'ŚREDNI', 'WOLNY']
-        help: Zmień prędkość wyświetlania tekstu podczas walki.
+        help: Zmień szybkość wyświetlania tekstu w walkach.
         spacing: 130
 
       alwaysDash:
         text: RUCH POSTACI
-        options: ['BIEG', 'CHÓD']
-        help: Zmień domyślną prędkość ruchu pomiędzy biegiem a chodem.
+        options: ['BIEG', 'KROK']
+        help: Przełącz domyślną prędkość poruszania się między bieganiem a chodzeniem.
         boolIndex: true
         spacing: 130
 
     audio:
       bgmVolume:
         text: GŁOŚNOŚĆ MUZYKI
-        help: zmień głośność muzyki w tle.
+        help: Zmień głośnośc muzyki w tle.
 
       bgsVolume:
-        text: GŁOŚNOŚĆ DŹWIĘKU
-        help: Zmień głośność dźwięków w tle.
+        text: GŁOŚNOŚĆ TŁA
+        help: Zmień głośność odgłosów w tle.
 
       meVolume:
-        text: GŁOŚNOŚĆ EM
-        help: Zmień głośność efektów muzycznych.
+        text: GŁOŚNOŚĆ EFEKTÓW MUZYCZNYCH
+        help: Zmień głośność efektów dźwiękowych związanych z muzyką.
 
       seVolume:
-        text: GŁOŚNOŚĆ ED
-        help: Zmień głośność efektów dźwiękowych.
+        text: GŁOŚNOŚĆ EFEKTÓW DŹWIĘKOWYCH
+        help: Zmień głośność pozostałych efektów dźwiękowych.
 
     controls:
       keyboardHeader: KLAWIATURA
       gamepadHeader: KONTROLER
-      pressKeyPrompt: NACIŚNIJ PRZYCISK
-      resetAll: RESETUJ WSZYSTKIE
-      help: Naciśnij klawisz aby zmienić.
+      pressKeyPrompt: WCIŚNIJ PRZYCISK
+      resetAll: RESETUJ WSZYSTKO
+      help: Wciśnij przycisk aby zmienić wejście.
       inputNames:
         up: GÓRA (↑)
         down: DÓŁ (↓)
@@ -651,29 +651,29 @@ plugins:
         ok: POTWIERDŹ
         escape: ANULUJ/MENU
         shift: BIEG
-        tag: WYBÓR
+        tag: ZMIANA
 #        tab: STRAFE
         pageup: LB
         pagedown: RB
 
     system:
       restoreConfig:
-        text: PRZYWRÓĆ USTAWIENIA DOMYŚLNE
-        help: Przywróć domyślne ustawienia gry i napraw global.rpgsave.
+        text: PRZYWRÓĆ DOMYŚLNE
+        help: Przywróć domyślne ustawienia gry i odzyskaj global.rpgsave.
       load:
-        text: ZAŁADUJ ZAPIS
-        help: załaduj zapis gry.
+        text: WCZYTAJ ZAPIS
+        help: Wczytaj plik zapisu.
       toTitleScreen:
-        text: IDŹ DO MENU GŁÓWNEGO
-        help: powróć do menu głównego.
+        text: EKRAN TYTUŁOWY
+        help: Powróc do ekranu tytułowego.
       toTitleScreenPrompt:
-        text: Wrócić do menu głównego?
+        text: Powrócić do ekranu tytułowego?
         commands: [TAK, NIE]
       exit:
-        text: WYJDŹ Z GRY
-        help: Wychodzi z gry.
+        text: WYJŚCIE
+        help: Wyjdź z gry.
       exitPrompt:
-        text: Chcesz wyjść?
+        text: Czy chcesz wyjść z gry?
         commands: [TAK, NIE]
 
 
