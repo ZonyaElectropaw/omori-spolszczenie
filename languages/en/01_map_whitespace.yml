@@ -2,37 +2,37 @@
 # - THE WHITE DOOR
 # -----------------------------------------------
 message_0:
-    text: "Białe drzwi rzucają słaby cień.\\!<br>Co chciałbyś zrobić?"
+    text: "Białe drzwi rzucają lekki cień.\\!<br>Co zamierzasz zrobić?"
 message_1:
     text: "OTWÓRZ DRZWI"
 message_2:
-    text: "NIE RÓB NIC"
+    text: "NIC NIE RÓB"
 message_3:
-    text: "Patrzyłeś się na drzwi."
+    text: "Spojrzałeś się na drzwi."
 
 # -----------------------------------------------
 # - THE CAT
 # -----------------------------------------------
 message_4:
-    text: "\\n<MEWO>Miau?\\! (Czekasz, aż coś się wydarzy?)"
+    text: "\\n<MEWO>Miau?\\! (Też czekasz, aż coś się wydarzy?)"
 
 message_404:
-    text: "\\n<MEWO>Miau?\\! (Nie ma tu wiele do roboty, prawda?)"
+    text: "\\n<MEWO>Miau?\\! (Nie ma tu zbyt wiele do zrobienia, co nie?)"
 
 message_405:
-    text: "\\n<MEWO>Miau?\\! (Or is there?)"
+    text: "\\n<MEWO>Miau?\\! (A może jest coś?)"
 
 message_406:
-    text: "\\n<MEWO>Miau?\\! (Szukasz wyjścia?)"
+    text: "\\n<MEWO>Miau?\\! (Szukasz stąd jakiegoś wyjścia?)"
 
 message_407:
     text: "\\n<MEWO>Miau...\\! (Zawsze jest jedno...\\| ale...)"
 
 message_408:
-    text: "\\n<MEWO>Miau?\\! (Czekasz, aż coś się wydarzy?)"
+    text: "\\n<MEWO>Miau?\\! (Też czekasz, aż coś się wydarzy?)"
 
 message_409:
-    text: "\\n<MEWO>Miau?\\! (Kiedy wraca Mama?)"
+    text: "\\n<MEWO>Miau?\\! (Kiedy wróci Mama?)"
 
 
 # -----------------------------------------------
@@ -41,27 +41,27 @@ message_409:
 message_5:
     text: "Uruchomiłeś laptopa."
 message_6:
-    text: "Co chciałbyś robić?"
+    text: "Co zamierzasz zrobić?"
 message_7:
-    text: "PATRZ NA KLAWIATURĘ"
+    text: "SPÓJRZ NA KLAWIATURĘ"
 message_8:
     text: "WPATRYWAJ SIĘ W EKRAN"
 message_40:
-    text: "OTWÓRZ SWÓJ PAMIĘTNIK"
+    text: "OTWÓRZ SWÓJ DZIENNIK"
 message_9:
     text: "WYLOGUJ SIĘ"
 message_10:
-    text: "Wpatrywałeś się w ekran."
+    text: "Popatrzyłeś się w ekran."
 message_11:
-    text: "Ciepło z laptopa ogrzało twoje kolana.\\!\\lb To było miłe."
+    text: "Ciepło laptopa ogrzało ci kolana.\\!\\lb To było miłe."
 message_12:
-    text: "Nie możesz korzystać z laptopa z tej strony."
+    text: "Nie możesz skorzystać z laptopa z tej perspektywy."
 
 # -----------------------------------------------
 # - THE SKETCHBOOK
 # -----------------------------------------------
 message_13:
-    text: "Szkicownik.\\!\\lb Zajrzeć do środka?"
+    text: "Twój szkicownik.\\!\\lb Zajrzeć do środka?"
 message_14:
     text: "TAK"
 message_15:
@@ -71,15 +71,15 @@ message_15:
 # - THE TISSUE BOX
 # -----------------------------------------------
 message_16:
-    text: "Pudełko na chusteczki do wycierania smutków."
+    text: "Pudełko chusteczek do wycierania żalów."
 
 # -----------------------------------------------
 # - THE LIGHTBULB
 # -----------------------------------------------
 message_17:
-    text: "Żarówka zwisa z sufitu, gdziekolwiek się znajduje.\\!\\lb<br>Zajrzeć do żarówki?"
+    text: "Żarówka zwisa z sufitu, gdziekolwiek on jest.\\!\\lb<br>Spojrzeć wewnątrz żarówki?"
 message_18:
-    text: "W środku jest ciemno.\\! Niczego nie widać."
+    text: "W środku jest idealnie ciemno.\\! Nie możesz tam nic zobaczyć."
 
 # -----------------------------------------------
 # - THE KNIFE
@@ -93,7 +93,7 @@ message_20:
 # - LIGHTBULB BREAK
 # -----------------------------------------------
 message_30:
-    text: "W środku jest ciemno.\\! Niczego nie widać."
+    text: "W środku jest idealnie ciemno.\\! Nie możesz tam nic zobaczyć."
 
 # -----------------------------------------------
 # - MISCELLANOUS
@@ -102,10 +102,10 @@ message_21:
     text: "Nie możesz wyjść bez broni."
 
 message_31:
-    text: "Dostałeś ZAMAZANE ZDJĘCIE"
+    text: "Znalazłeś ROZMYTĄ FOTOGRAFIĘ."
 
 message_32:
-    text: Dostałeś BŁYSZCZĄCY NÓŹ.
+    text: Znalazłeś BŁYSZCZĄCY NÓŻ.
 
 # -----------------------------------------------
 #           "WHITE SPACE" (MAP 388)
@@ -117,13 +117,13 @@ message_32:
 # - THE WHITE DOOR
 # -----------------------------------------------
 message_100:
-    text: "Białe drzwi rzucają słaby cień.\\!<br>Co chciałbyś robić?"
+    text: "Białe drzwi rzucają lekki cień.\\!<br>Co zamierzasz zrobić?"
 message_101:
     text: "OTWÓRZ DRZWI"
 message_102:
-    text: "WPATRYWAJ SIĘ NA DRZWI"
+    text: "PATRZ NA DRZWI"
 message_103:
-    text: "Wpatrywałeś się na drzwi."
+    text: "Spojrzałeś się na drzwi."
 
 # -----------------------------------------------
 # - THE CAT
@@ -135,21 +135,21 @@ message_104:
 # - THE LAPTOP
 # -----------------------------------------------
 message_105:
-    text: "Same zakłócenia"
+    text: "Same zakłócenia."
 message_106:
-    text: "Co chciałbyś zrobić?"
+    text: "Co zamierzasz zrobić?"
 message_107:
-    text: "PATRZ NA KLAWIATURĘ"
+    text: "SPÓJRZ NA KLAWIATURĘ"
 message_108:
     text: "WPATRYWAJ SIĘ W EKRAN"
 message_109:
     text: "WYLOGUJ SIĘ"
 message_110:
-    text: "Wpatrywałeś się w ekran."
+    text: "Popatrzyłeś się w ekran."
 # message_111:
-#     text: "The heat from the laptop warmed your lap.\\!\\lb It felt nice."
+#     text: "Ciepło laptopa ogrzało ci kolana.\\!\\lb To było miłe."
 message_112:
-    text: "Nie możesz korzystać z laptopa z tej strony."
+    text: "Nie możesz skorzystać z laptopa z tej perspektywy."
 
 # -----------------------------------------------
 # - THE SKETCHBOOK
@@ -165,15 +165,15 @@ message_115:
 # - THE TISSUE BOX
 # -----------------------------------------------
 message_116:
-    text: "Pudełko na chusteczki."
+    text: "Pudełko chusteczek."
 
 # -----------------------------------------------
 # - THE LIGHTBULB
 # -----------------------------------------------
 message_117:
-    text: "Żarówka zwisa z sufitu, gdziekolwiek się znajduje.\\!\\lb<br>Zajrzeć do żarówki?"
+    text: "Żarówka zwisa z sufitu, gdziekolwiek on jest.\\!\\lb<br>Spojrzeć wewnątrz żarówki?"
 message_118:
-    text: "W środku jest ciemno.\\! Niczego nie widać."
+    text: "W środku jest idealnie ciemno.\\! Nie możesz tam nic zobaczyć."
 
 # -----------------------------------------------
 # - OMORI
@@ -184,10 +184,10 @@ message_120:
     text: \n<OMORI>...
 
 message_121:
-    text: "Żarówka zwisa z sufitu.\\!\\lb<br>Chcesz ją zniszczyć?"
+    text: "Żarówka zwisa z sufitu.\\!\\lb<br>Czy chcesz ją zniszczyć?"
 
 message_125:
-    text: Nauczyłeś się \c[1]CZERWONE RĘCE\c[0].
+    text: Nauczyłeś się \c[1]CZERWONYCH RĄK\c[0].
 
 message_126:
     text: Znalazłeś mapę.
@@ -195,4 +195,4 @@ message_126:
 #BLACK SPACE Door
 
 message_200:
-    text: "Czarne drzwi rzucają ciężki cień.\\!<br>Co chciałbyś zrobić?"
+    text: "Czarne drzwi rzucają silny cień.\\!<br>Co zamierzasz zrobić?"
