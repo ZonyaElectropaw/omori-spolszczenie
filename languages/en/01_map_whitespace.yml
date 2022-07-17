@@ -8,7 +8,7 @@ message_1:
 message_2:
     text: "NIC NIE RÓB"
 message_3:
-    text: "Spojrzałeś się na drzwi."
+    text: "Spojrzałeś na drzwi."
 
 # -----------------------------------------------
 # - THE CAT
@@ -71,13 +71,13 @@ message_15:
 # - THE TISSUE BOX
 # -----------------------------------------------
 message_16:
-    text: "Pudełko chusteczek do wycierania żalów."
+    text: "Pudełko chusteczek do wycierania smutków."
 
 # -----------------------------------------------
 # - THE LIGHTBULB
 # -----------------------------------------------
 message_17:
-    text: "Żarówka zwisa z sufitu, gdziekolwiek on jest.\\!\\lb<br>Spojrzeć wewnątrz żarówki?"
+    text: "Żarówka zwisa z sufitu, gdziekolwiek on jest.\\!\\lb<br>Zajrzeć do żarówki?"
 message_18:
     text: "W środku jest idealnie ciemno.\\! Nie możesz tam nic zobaczyć."
 
@@ -123,7 +123,7 @@ message_101:
 message_102:
     text: "PATRZ NA DRZWI"
 message_103:
-    text: "Spojrzałeś się na drzwi."
+    text: "Spojrzałeś na drzwi."
 
 # -----------------------------------------------
 # - THE CAT
@@ -171,7 +171,7 @@ message_116:
 # - THE LIGHTBULB
 # -----------------------------------------------
 message_117:
-    text: "Żarówka zwisa z sufitu, gdziekolwiek on jest.\\!\\lb<br>Spojrzeć wewnątrz żarówki?"
+    text: "Żarówka zwisa z sufitu, gdziekolwiek on jest.\\!\\lb<br>Zajrzeć do żarówki?"
 message_118:
     text: "W środku jest idealnie ciemno.\\! Nie możesz tam nic zobaczyć."
 
