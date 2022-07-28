@@ -8,7 +8,7 @@
     "text": ["languages/en/"],
     "data": ["data/"],
     "maps": [],
-    "assets": ["fonts/" , "img/animations/" , "img/atlases/" , "img/characters/", "img/pictures/" , "img/system/" , "img/tilesets/" , "img/enemies/", "img/sv_actors/", "img/slotmachine/", "img/pictures/Sequence/", "movies/" ],
+    "assets": ["fonts/" , "img/animations/" , "img/atlases/" , "img/characters/", "img/pictures/" , "img/system/" , "img/tilesets/" , "img/enemies/", "img/pictures/Sequence/", "img/pictures/Albums" ],
     "exec": []
   }
 }
